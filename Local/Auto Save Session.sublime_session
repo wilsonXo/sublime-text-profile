@@ -1,0 +1,3056 @@
+{
+	"folder_history":
+	[
+		"/D/workspace/~temp/iscroll",
+		"/D/workspace/~temp/backbone-page",
+		"/D/workspace/LLY.UI.Html.P2P-Hybrid",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/SideBarEnhancements",
+		"/D/workspace/LLY.UI.Html.EC-Hybrid",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal",
+		"/D/workspace/LLY.UI.Html.Lottery",
+		"/C/Users/Administrator/Desktop/git/bigpipe-example",
+		"/D/Game/dont_starve/mods",
+		"/D/Game/dont_starve",
+		"/C/Users/Administrator/Desktop/git/kendo-backbone",
+		"/D/workspace/~webstorm/backbone-architecture",
+		"/D/Game/dont_starve/mods/Always On Status",
+		"/D/Game/dont_starve/mods/Display Food Values",
+		"/D/Game/dont_starve/data/scripts",
+		"/D/Game/dont_starve/mods/Fast moving",
+		"/C/Users/Administrator/Desktop/git/LLY.UI.Html.Lottery",
+		"/C/Users/Administrator/Desktop/xx/31996F65-073C-4474-A3CE-F60E39844070/lianlian.app",
+		"/C/Users/Administrator/Desktop/git/todo-app",
+		"/C/Users/Administrator/Desktop/git/backbone-require-seed",
+		"/D/workspace/test/backbone",
+		"/D/workspace/backup/y/backup",
+		"/D/workspace/mobile",
+		"/C/Users/Administrator/Desktop/git/test/Heartbeat",
+		"/C/Users/Administrator/Desktop/git/backbone/examples/todos",
+		"/D/workspace/test"
+	],
+	"last_version": 3083,
+	"last_window_id": 9,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"trans",
+						"translateX"
+					],
+					[
+						"ready",
+						"ready	$(document).ready"
+					],
+					[
+						"title",
+						"title"
+					],
+					[
+						"transf",
+						"transition-timing-function"
+					],
+					[
+						"anim",
+						"anim-	animation: ${1:name} ${2:duration} ${3:timing-function} ${4:delay} ${5:iteration-count} ${6:direction} ${7:fill-mode};"
+					],
+					[
+						"tran",
+						"transform"
+					],
+					[
+						"ttf",
+						"trstf	transition-timing-function: ${1:tfunc};"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"transition-tim",
+						"-webkit-transition-timing-function"
+					],
+					[
+						"fot",
+						"footer	Tag"
+					],
+					[
+						"under",
+						"underscore-min.js"
+					],
+					[
+						"back",
+						"backbone-min.js"
+					],
+					[
+						"mainmodel",
+						"MainModel"
+					],
+					[
+						"Has",
+						"HasSignedIn"
+					],
+					[
+						"require",
+						"require-normal.js"
+					],
+					[
+						"ap",
+						"appRouter.js"
+					],
+					[
+						"plugin",
+						"plugin/"
+					],
+					[
+						"image",
+						"image/"
+					],
+					[
+						"animation-",
+						"animation-iteration-count"
+					],
+					[
+						"animate",
+						"animation-timing-function: 〔property〕"
+					],
+					[
+						"b",
+						"bower_components/"
+					],
+					[
+						"anima",
+						"animation-name"
+					],
+					[
+						"animation",
+						"animation-duration"
+					],
+					[
+						"li",
+						"link	Tag"
+					],
+					[
+						"scro",
+						"scrollTop"
+					],
+					[
+						"view",
+						"viewElem"
+					],
+					[
+						"for",
+						"for〔keyword〕"
+					],
+					[
+						"script",
+						"script	Tag"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 135.0,
+				"last_filter": "listpac",
+				"selected_items":
+				[
+					[
+						"listpac",
+						"Package Control: List Packages"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"installpac",
+						"Package Control: Install Package"
+					],
+					[
+						"set bash",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"encodin",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"set css",
+						"Set Syntax: CSS"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"install pac",
+						"Package Control: Install Package"
+					],
+					[
+						"removepac",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"color",
+						"Color Picker"
+					],
+					[
+						"installpa",
+						"Package Control: Install Package"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"git pull",
+						"Git: Pull"
+					],
+					[
+						"gitpush",
+						"Git: Push Current Branch"
+					],
+					[
+						"term",
+						"Preferences: Terminal Key Bindings – User"
+					],
+					[
+						"ip",
+						"Package Control: Install Package"
+					],
+					[
+						"remopac",
+						"Package Control: Remove Package"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"rp",
+						"Preferences: Package Control Settings – Default"
+					],
+					[
+						"remova",
+						"Package Control: Remove Package"
+					],
+					[
+						"enablepac",
+						"Package Control: Enable Package"
+					],
+					[
+						"dis	",
+						"Package Control: Disable Package"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"disabl",
+						"Package Control: Disable Package"
+					],
+					[
+						"dp",
+						"Package Control: Disable Package"
+					],
+					[
+						"gitdiff",
+						"Git: Diff Current File"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"installpack",
+						"Package Control: Install Package"
+					],
+					[
+						"isntallpac",
+						"Package Control: Install Package"
+					],
+					[
+						"enablepa",
+						"Package Control: Enable Package"
+					],
+					[
+						"auto",
+						"Autoprefix CSS"
+					],
+					[
+						"set css3",
+						"Set Syntax: CSS3"
+					],
+					[
+						"removeac",
+						"Package Control: Remove Package"
+					],
+					[
+						"remoac",
+						"Package Control: Remove Package"
+					],
+					[
+						"set sass",
+						"Set Syntax: Sass"
+					],
+					[
+						"listpack",
+						"Package Control: List Packages"
+					],
+					[
+						"lispac",
+						"Package Control: List Packages"
+					],
+					[
+						"set json",
+						"Set Syntax: JSON"
+					],
+					[
+						"sass",
+						"SassBeautify: Convert from SCSS to current type"
+					],
+					[
+						"sb",
+						"SassBeautify"
+					],
+					[
+						"remove pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"shelle",
+						"Shell Exec: Open"
+					],
+					[
+						"shell",
+						"Shell Exec: Open"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"format",
+						"FormatLua: Format Lua code"
+					],
+					[
+						"fl",
+						"FormatLua: Format Lua code"
+					],
+					[
+						"lua",
+						"Set Syntax: Lua"
+					],
+					[
+						"set html",
+						"Set Syntax: HTML"
+					],
+					[
+						"gkr",
+						"Grunt: Kill Running Tasks"
+					],
+					[
+						"gruntkill",
+						"Grunt: Kill Running Tasks"
+					],
+					[
+						"grunt",
+						"Grunt"
+					],
+					[
+						"doc",
+						"DocBlockr: Reparse comment block"
+					],
+					[
+						"docbl",
+						"DocBlockr: Decorate line comment"
+					],
+					[
+						"set batch",
+						"Set Syntax: Batch File"
+					],
+					[
+						"set bas",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"set ba",
+						"Set Syntax: Batch File"
+					],
+					[
+						"rempve",
+						"Package Control: Remove Package"
+					],
+					[
+						"installc",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"set javasc",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"python",
+						"Set Syntax: Python"
+					],
+					[
+						"codeintel",
+						"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+					],
+					[
+						"lp",
+						"Package Control: List Packages"
+					],
+					[
+						"installp",
+						"Package Control: Install Package"
+					],
+					[
+						"set lua",
+						"Set Syntax: Lua"
+					],
+					[
+						"set scs3",
+						"Set Syntax: CSS3"
+					],
+					[
+						"Set css3",
+						"Set Syntax: CSS3"
+					]
+				],
+				"width": 514.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"timesteap",
+					"time()",
+					"Date",
+					"print",
+					"clear",
+					"clear()",
+					"cls",
+					"print(1)",
+					"print",
+					"ggg",
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_mixins.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/index.html",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/productList.html",
+				"/D/workspace/~temp/backbone-page/index.html",
+				"/D/workspace/~temp/backbone-page/js/main.js",
+				"/D/workspace/~temp/backbone-page/css/main.scss",
+				"/D/workspace/~temp/backbone-page/css/_reset.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/BaseView.js",
+				"/D/workspace/~temp/backbone-page/css/main.css",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/main.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_base.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_reset.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/ProductListView.js",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/scripts/view/InvestSearchView.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_page.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_header.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/index.html",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_index.scss",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/scripts/app/appRouter.js",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/scripts/model/FilterModel.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/MainView.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_footer.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/app/appRouter.js",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/scripts/view/InviteView.js",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/index.html",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/index.html",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/scripts/view/MainView.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/main.css.map",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/main.css",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/Gruntfile.js",
+				"/D/Game/dont_starve/mods/Fast moving/modmain.lua",
+				"/D/Game/dont_starve/mods/Fast moving/modinfo.lua",
+				"/D/Game/dont_starve/mods/Fast moving/Fast moving.xml",
+				"/D/Game/dont_starve/mods/Fast moving/preview.jpg",
+				"/D/Game/dont_starve/mods/Fast moving/Fast moving.tex",
+				"/C/Users/Administrator/Desktop/1.txt",
+				"/D/workspace/~temp/express/1.txt",
+				"/D/workspace/~temp/express/index.html",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_vars.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/node_modules/grunt-jst/node_modules/esformatter/lib/hooks/VariableDeclaration.js",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/investItem.html",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/completedItem.html",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/main.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/node_modules/grunt-jst/node_modules/esformatter/node_modules/mout/object/mixIn.js",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/SideBarEnhancements/SideBarAPI.py",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/PyV8/win64-p3/PyV8.py",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/SideBarEnhancements/SideBarDefaultDisable.py",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/SideBarEnhancements/SideBar.py",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/SideBarEnhancements/Main.sublime-menu",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/SideBarEnhancements/Side Bar.sublime-menu",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/SideBarEnhancements/Commands.sublime-commands",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/SideBarEnhancements.sublime-package",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/PS.bat",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/package.json",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/Context.sublime-menu",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.py",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/.no-sublime-package",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Terminal (Windows).sublime-settings",
+				"/D/workspace/LLY.UI.Html.Lottery/development/scripts/view/MainView.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/setup.bat",
+				"/D/Installer/Adobe Create Suite 6 (2012)/{Adobe CS6 完全通用破解 (2012-05)}/{CS6 通用破解}/第2步，以管理员身份运行，以获得权限.bat",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/app/app.js",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/CSS Completions.sublime-package",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/.gitignore",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/scripts/view/ActivityView.js",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/scripts/view/AboutView.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/swipe.html",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/ToggleButton.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/utils/dialog.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/toggleButton.html",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/utils/swipe.js",
+				"/D/workspace/LLY.UI.Html.Lottery/development/scripts/app/configs.js",
+				"/D/workspace/LLY.UI.Html.Lottery/dist/index.html",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/app/configs.js",
+				"/C/Users/Administrator/Downloads/iconfont/ux_1436843339_6885488/iconfont.ttf",
+				"/D/workspace/LLY.UI.Html.Lottery/dist/scripts/main.js",
+				"/C/Users/Administrator/Desktop/out.txt",
+				"/C/Users/Administrator/AppData/Local/Google/Chrome/User Data/Default/Extensions/iaddkimmopgchbbnmfmdcophmlnghkim/2.5.42_0/css/1.css",
+				"/C/Users/Administrator/Desktop/git/bigpipe-example/Makefile",
+				"/C/Users/Administrator/Desktop/git/bigpipe-example/package.json",
+				"/D/workspace/LLY.UI.Html.Lottery/development/tpl/main.html",
+				"/D/迅雷下载/f6636cc01fcc311136680afd621da3e6/Don't Starve Together Beta/一键改名.bat",
+				"/C/Users/Administrator/Desktop/UX(1)/common/heartbeat.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/bower_components/fastclick/lib/fastclick.js",
+				"/D/workspace/MobileClick/index.html",
+				"/D/workspace/MobileClick/main.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/bower_components/fastclick/lib/fastclick.min.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_dialog.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/alert.html",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/css/_footer.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/utils/api.js",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/about.html",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/account.html",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/activity.html",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/alert.html",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/detail.html",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/css/_index.scss",
+				"/D/workspace/LLY.UI.Html.Lottery/development/tpl/histories.html",
+				"/D/workspace/LLY.UI.Html.Lottery/development/index.html",
+				"/D/workspace/LLY.UI.Html.Lottery/development/tpl/history.html",
+				"/D/workspace/LLY.UI.Html.Lottery/development/scripts/main.js",
+				"/D/workspace/LLY.UI.Html.Lottery/Gruntfile.js",
+				"/D/workspace/LLY.UI.Html.Lottery/development/scripts/model/InfosModel.js",
+				"/D/workspace/LLY.UI.Html.Lottery/development/scripts/utils/api.js",
+				"/C/Users/Administrator/Desktop/7_Response.txt",
+				"/C/Users/Administrator/Desktop/8_.txt",
+				"/D/workspace/LLY.UI.Html.Lottery/development/scripts/app/appRouter.js",
+				"/C/Users/Administrator/Desktop/8_Request.txt",
+				"/C/Users/Administrator/Desktop/response.json",
+				"/C/Users/Administrator/Desktop/268_Response.txt",
+				"/D/workspace/LLY.UI.Html.Lottery/development/scripts/model/BaseModel.js",
+				"/D/workspace/LLY.UI.Html.Lottery/node_modules/grunt-zip/node_modules/jszip/documentation/api_jszip.md",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/scripts/utils/swipe.js",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/css/_dialog.scss",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/scripts/utils/dialog.js",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/swipe.html"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"",
+					"*.js",
+					"D:\\workspace\\LLY.UI.Html.EC-Hybrid\\development\\scripts,-require.js",
+					"D:\\workspace\\LLY.UI.Html.EC-Hybrid\\development\\scripts",
+					"*.scss",
+					"*.js",
+					"*.scss",
+					"*.html",
+					"",
+					"D:\\workspace\\LLY.UI.Html.EC-Hybrid\\development\\scripts",
+					"*.js",
+					"*.html,<open folders>",
+					"*.html",
+					"",
+					"<open folders>,*.js",
+					"<open folders>,*.lua",
+					"<open folders>,*.js",
+					"*.js",
+					"",
+					"*.css",
+					"",
+					"D:\\workspace\\LLY.UI.Html.Lottery",
+					"<open folders>",
+					"<open folders>,*.js",
+					"<open folders>,*.scss",
+					"<open folders>,*.js",
+					"<open folders>,*.html",
+					"*.html",
+					"*.js",
+					"*.scss",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"520",
+					": au",
+					":au",
+					":",
+					"bg-all",
+					"b-lian",
+					"index",
+					"\\\"",
+					"5s",
+					"1s",
+					"2s",
+					"b-home",
+					"b-back",
+					"background-size",
+					"size(",
+					"bg-all",
+					"china",
+					"ui-mobile-viewport-transitioning",
+					"footer ",
+					"footer",
+					"footer ",
+					"foot-inner",
+					"foot",
+					"footer",
+					"include bg",
+					"b-bac",
+					"include bg",
+					"background",
+					"text-align",
+					"center",
+					"\\sg6",
+					"g6",
+					"<div (class=\"line-item.+)>\\s+</div>",
+					"<div (class=\\\"line-item.+>)\\s+.+",
+					"<(div)\\sclass=\\\"line-item.+\\s+<\\/(div)>",
+					"div",
+					"g7",
+					"g5",
+					"content-warp",
+					"background",
+					"border",
+					"position",
+					"use_powershell",
+					"open.+run",
+					"exe",
+					"powershell",
+					"exe",
+					"power",
+					"TerminalSelector",
+					"PS.bat",
+					"run_terminal",
+					"OpenTerminalCommand",
+					"command",
+					"print",
+					"get_setting",
+					"机会",
+					"25s",
+					"ctrl+space",
+					"auto_complete",
+					"\\\"",
+					"background(",
+					"background",
+					"abs-pos",
+					"padding",
+					"relative",
+					"color(",
+					"color",
+					"line-height",
+					"size(",
+					"background(",
+					"border",
+					"content: \"\"",
+					"display",
+					"size",
+					"border-radius",
+					"$main_color",
+					"px",
+					"background-size",
+					"bg(",
+					"bg)",
+					"background-size",
+					"background",
+					"text-truncate",
+					"position",
+					"alert",
+					"div",
+					"ctrl+d",
+					"targetel",
+					"screenX",
+					"stop",
+					"targetElement",
+					"event.",
+					"touchstart",
+					"removeEventListener",
+					"event",
+					"$font_week_color",
+					"border-radius",
+					"center-bl",
+					"size",
+					"alert",
+					"dialog.alert",
+					"bg",
+					"bg_icons",
+					"btn",
+					"ui-page",
+					".ui-page header",
+					"life",
+					"swipe-points clearfix",
+					"swipe-wrap",
+					"bg_header.png",
+					"index_slider",
+					"\\s+console.+",
+					"load(",
+					"line",
+					"网络错误",
+					"\\/\\/.+",
+					"alert",
+					"configs",
+					"this.model.lo",
+					"load",
+					"infosmodel",
+					"triggerloaded",
+					"doget",
+					"members",
+					"111",
+					"console.log",
+					"111",
+					"console.log"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"'",
+					"",
+					"<a href=\"javascript:void(0)\" $1></a>",
+					"<a $1></a>",
+					"<a$1",
+					"$1$2",
+					"a",
+					"g6",
+					"g7",
+					"'",
+					"",
+					"\n",
+					"\\/\\/$1",
+					"\"",
+					";\\n",
+					"",
+					"span:45,",
+					"span:45",
+					"span:\\s45",
+					"//$1",
+					"",
+					",\\n",
+					";",
+					";\\n"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 36.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"menu_visible": false,
+			"output.CSS Extended Completions":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 353.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 108.0
+			},
+			"pinned_build_system": "Packages/YUI Compressor/YUI Compressor.sublime-build",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"footerscss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_footer.scss"
+					],
+					[
+						"mixin",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_mixins.scss"
+					],
+					[
+						"mixinscss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_mixins.scss"
+					],
+					[
+						"echeaderscss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_header.scss"
+					],
+					[
+						"index.css",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_index.scss"
+					],
+					[
+						"index.html",
+						"LLY.UI.Html.EC-Hybrid\\development\\index.html"
+					],
+					[
+						"tplindex.html",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\index.html"
+					],
+					[
+						"productlist",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productList.html"
+					],
+					[
+						"reset",
+						"backbone-page\\css\\_reset.scss"
+					],
+					[
+						"baseview",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\BaseView.js"
+					],
+					[
+						"mainjs",
+						"backbone-page\\js\\main.js"
+					],
+					[
+						"mainscss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\main.scss"
+					],
+					[
+						"scss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_reset.scss"
+					],
+					[
+						"base.scss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_base.scss"
+					],
+					[
+						"producthtml",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productList.html"
+					],
+					[
+						"index.scss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_index.scss"
+					],
+					[
+						"basescss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_base.scss"
+					],
+					[
+						"ectplinedx.html",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\index.html"
+					],
+					[
+						"ecbasescss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_base.scss"
+					],
+					[
+						"ecpagescss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_page.scss"
+					],
+					[
+						"pagescss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_page.scss"
+					],
+					[
+						"filtermodel",
+						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\model\\FilterModel.js"
+					],
+					[
+						"approutejs",
+						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\app\\appRouter.js"
+					],
+					[
+						"searchview",
+						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\view\\InvestSearchView.js"
+					],
+					[
+						"productview",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\ProductListView.js"
+					],
+					[
+						"productli",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productList.html"
+					],
+					[
+						"headerscss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_header.scss"
+					],
+					[
+						"ecindexscss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_index.scss"
+					],
+					[
+						"ecindex.html",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\index.html"
+					],
+					[
+						"inveview",
+						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\view\\InviteView.js"
+					],
+					[
+						"approuter",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\app\\appRouter.js"
+					],
+					[
+						"ecmainview",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\MainView.js"
+					],
+					[
+						"ectplindexhtml",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\index.html"
+					],
+					[
+						"ecbasecss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_base.scss"
+					],
+					[
+						"mainviewjs",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\MainView.js"
+					],
+					[
+						"investsearchview",
+						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\view\\InvestSearchView.js"
+					],
+					[
+						"approute",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\app\\appRouter.js"
+					],
+					[
+						"mainview",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\MainView.js"
+					],
+					[
+						"p2papprou",
+						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\app\\appRouter.js"
+					],
+					[
+						"p2ptplindex",
+						"LLY.UI.Html.P2P-Hybrid\\development\\tpl\\index.html"
+					],
+					[
+						"p2pmainview",
+						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\view\\MainView.js"
+					],
+					[
+						"varscss",
+						"development\\css\\_vars.scss"
+					],
+					[
+						"var",
+						"node_modules\\grunt-jst\\node_modules\\esformatter\\lib\\hooks\\VariableDeclaration.js"
+					],
+					[
+						"main",
+						"development\\scripts\\main.js"
+					],
+					[
+						"minxin",
+						"node_modules\\grunt-jst\\node_modules\\esformatter\\node_modules\\mout\\object\\mixIn.js"
+					],
+					[
+						"tplhtml",
+						"development\\tpl\\index.html"
+					],
+					[
+						"setup",
+						"setup.bat"
+					],
+					[
+						"basecss",
+						"development\\css\\_base.scss"
+					],
+					[
+						"gruntfile",
+						"Gruntfile.js"
+					],
+					[
+						"main.js",
+						"development\\scripts\\main.js"
+					],
+					[
+						"indexhtml",
+						"development\\tpl\\index.html"
+					],
+					[
+						"foot",
+						"development\\css\\_footer.scss"
+					],
+					[
+						"lotteryconfigjs",
+						"LLY.UI.Html.Lottery\\development\\scripts\\app\\configs.js"
+					],
+					[
+						"config",
+						"LLY.UI.Html.Lottery\\development\\scripts\\app\\configs.js"
+					],
+					[
+						"fastclick",
+						"bower_components\\fastclick\\lib\\fastclick.js"
+					],
+					[
+						"header",
+						"development\\css\\_header.scss"
+					],
+					[
+						"varjs",
+						"node_modules\\grunt-jst\\node_modules\\esformatter\\lib\\hooks\\VariableDeclaration.js"
+					],
+					[
+						"maincss",
+						"development\\css\\main.css"
+					],
+					[
+						"varsc",
+						"development\\css\\_vars.scss"
+					],
+					[
+						"dialogjs",
+						"development\\scripts\\utils\\dialog.js"
+					],
+					[
+						"dialog",
+						"development\\scripts\\utils\\dialog.js"
+					],
+					[
+						"dialogscss",
+						"development\\css\\_dialog.scss"
+					],
+					[
+						"footscss",
+						"LLY.UI.Html.P2P-Hybrid\\development\\css\\_footer.scss"
+					],
+					[
+						"index",
+						"LLY.UI.Html.EC-Hybrid\\development\\index.html"
+					],
+					[
+						".scss",
+						"development\\css\\_base.scss"
+					],
+					[
+						"mixinc",
+						"development\\css\\_mixins.scss"
+					],
+					[
+						"swipe",
+						"development\\scripts\\utils\\swipe.js"
+					],
+					[
+						"_index.scss",
+						"LLY.UI.Html.P2P-Hybrid\\development\\css\\_index.scss"
+					],
+					[
+						"p2p_index.scss",
+						"LLY.UI.Html.P2P-Hybrid\\development\\css\\_index.scss"
+					],
+					[
+						"ecindex.htl",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\index.html"
+					],
+					[
+						"gruntfilejs",
+						"Gruntfile.js"
+					],
+					[
+						"apijs",
+						"development\\scripts\\utils\\api.js"
+					],
+					[
+						"infom",
+						"development\\scripts\\model\\InfosModel.js"
+					],
+					[
+						"configs",
+						"development\\scripts\\app\\configs.js"
+					],
+					[
+						"api.js",
+						"development\\scripts\\utils\\api.js"
+					],
+					[
+						"histo",
+						"development\\tpl\\histories.html"
+					],
+					[
+						"mainhtml",
+						"development\\tpl\\main.html"
+					],
+					[
+						"configjs",
+						"development\\scripts\\app\\configs.js"
+					],
+					[
+						"lotteryindex.html",
+						"LLY.UI.Html.Lottery\\development\\index.html"
+					],
+					[
+						"lotterymainviewjs",
+						"LLY.UI.Html.Lottery\\development\\scripts\\view\\MainView.js"
+					],
+					[
+						"lotterymainjs",
+						"LLY.UI.Html.Lottery\\development\\scripts\\main.js"
+					],
+					[
+						"index.htm",
+						"LLY.UI.Html.Lottery\\dist\\index.html"
+					],
+					[
+						"lotteryapi.js",
+						"LLY.UI.Html.Lottery\\development\\scripts\\utils\\api.js"
+					],
+					[
+						"lotteryapijs",
+						"LLY.UI.Html.Lottery\\node_modules\\grunt-zip\\node_modules\\jszip\\documentation\\api_jszip.md"
+					],
+					[
+						"historieshtml",
+						"LLY.UI.Html.Lottery\\development\\tpl\\histories.html"
+					],
+					[
+						"lotteryindex",
+						"LLY.UI.Html.Lottery\\development\\index.html"
+					],
+					[
+						"ecmainviewjs",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\MainView.js"
+					],
+					[
+						"ecswipejs",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\utils\\swipe.js"
+					],
+					[
+						"swipejs",
+						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\utils\\swipe.js"
+					],
+					[
+						"p2pdialogscss",
+						"LLY.UI.Html.P2P-Hybrid\\development\\css\\_dialog.scss"
+					],
+					[
+						"ecdialog.scss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_dialog.scss"
+					],
+					[
+						"p2pdialogjs",
+						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\utils\\dialog.js"
+					],
+					[
+						"swipehtml",
+						"LLY.UI.Html.P2P-Hybrid\\development\\tpl\\swipe.html"
+					],
+					[
+						"ecdialogjs",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\utils\\dialog.js"
+					],
+					[
+						"ectplindex",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\index.html"
+					],
+					[
+						"ecindexhtml",
+						"LLY.UI.Html.EC-Hybrid\\development\\index.html"
+					],
+					[
+						"p2pmainjs",
+						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\main.js"
+					],
+					[
+						"ecmainjs",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\main.js"
+					],
+					[
+						"_basescss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_base.scss"
+					],
+					[
+						"ecgruntfile",
+						"LLY.UI.Html.EC-Hybrid\\Gruntfile.js"
+					],
+					[
+						"tplindex",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\index.html"
+					],
+					[
+						"tpl/index",
+						"LLY.UI.Html.P2P-Hybrid\\development\\tpl\\index.html"
+					],
+					[
+						"invview",
+						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\view\\InviteView.js"
+					],
+					[
+						"invehtml",
+						"LLY.UI.Html.P2P-Hybrid\\development\\tpl\\investConfirm.html"
+					],
+					[
+						"inve",
+						"LLY.UI.Html.P2P-Hybrid\\development\\tpl\\investItem.html"
+					],
+					[
+						"templatejs",
+						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\view\\templates.js"
+					],
+					[
+						"jst",
+						"LLY.UI.Html.EC-Hybrid\\node_modules\\grunt-jst\\tasks\\jst.js"
+					],
+					[
+						"mainmodel",
+						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\model\\MainModel.js"
+					],
+					[
+						"stu",
+						"backbone-architecture\\scripts\\model\\Student.js"
+					],
+					[
+						"basemodel",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\model\\BaseModel.js"
+					],
+					[
+						"viewjs",
+						"backbone-architecture\\scripts\\view\\View.js"
+					],
+					[
+						"routerjs",
+						"backbone-architecture\\scripts\\router.js"
+					],
+					[
+						"backbonejs",
+						"backbone-architecture\\lib\\backbone\\backbone.js"
+					],
+					[
+						"backbone",
+						"backbone-architecture\\lib\\backbone\\backbone.js"
+					],
+					[
+						"requirejs",
+						"backbone-architecture\\lib\\requirejs\\require.js"
+					],
+					[
+						"gitig",
+						".gitignore"
+					],
+					[
+						"gruntfil",
+						"Gruntfile.js"
+					],
+					[
+						"gruntf",
+						"Gruntfile.js"
+					],
+					[
+						"base",
+						"development\\scripts\\view\\BaseView.js"
+					],
+					[
+						"appjs",
+						"development\\scripts\\app\\app.js"
+					],
+					[
+						"bower",
+						".bowerrc"
+					],
+					[
+						"git",
+						".gitignore"
+					],
+					[
+						"package",
+						"package.json"
+					],
+					[
+						"grunfi",
+						"Gruntfile.js"
+					],
+					[
+						"grunt",
+						"Gruntfile.js"
+					],
+					[
+						"html",
+						"node_modules\\live-server\\node_modules\\watchr\\node_modules\\bal-util\\out\\lib\\html.js"
+					],
+					[
+						"giti",
+						".gitignore"
+					],
+					[
+						"listpac",
+						"node_modules\\live-server\\node_modules\\event-stream\\node_modules\\through\\package.json"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 266.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pr",
+						"pos:r	position:relative"
+					],
+					[
+						"trans",
+						"translateX"
+					],
+					[
+						"ready",
+						"ready	$(document).ready"
+					],
+					[
+						"title",
+						"title"
+					],
+					[
+						"transf",
+						"transition-timing-function"
+					],
+					[
+						"anim",
+						"anim-	animation: ${1:name} ${2:duration} ${3:timing-function} ${4:delay} ${5:iteration-count} ${6:direction} ${7:fill-mode};"
+					],
+					[
+						"tran",
+						"transform"
+					],
+					[
+						"ttf",
+						"trstf	transition-timing-function: ${1:tfunc};"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"transition-tim",
+						"-webkit-transition-timing-function"
+					],
+					[
+						"fot",
+						"footer	Tag"
+					],
+					[
+						"under",
+						"underscore-min.js"
+					],
+					[
+						"back",
+						"backbone-min.js"
+					],
+					[
+						"mainmodel",
+						"MainModel"
+					],
+					[
+						"Has",
+						"HasSignedIn"
+					],
+					[
+						"require",
+						"require-normal.js"
+					],
+					[
+						"ap",
+						"appRouter.js"
+					],
+					[
+						"plugin",
+						"plugin/"
+					],
+					[
+						"image",
+						"image/"
+					],
+					[
+						"animation-",
+						"animation-iteration-count"
+					],
+					[
+						"animate",
+						"animation-timing-function: 〔property〕"
+					],
+					[
+						"b",
+						"bower_components/"
+					],
+					[
+						"anima",
+						"animation-name"
+					],
+					[
+						"animation",
+						"animation-duration"
+					],
+					[
+						"li",
+						"link	Tag"
+					],
+					[
+						"scro",
+						"scrollTop"
+					],
+					[
+						"view",
+						"viewElem"
+					],
+					[
+						"for",
+						"for〔keyword〕"
+					],
+					[
+						"script",
+						"script	Tag"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/index.html",
+					"settings":
+					{
+						"buffer_size": 9051,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "C:\\ProgramData\\Oracle\\Java\\javapath;\nC:\\Ruby22-x64\\bin;\nC:\\Program Files (x86)\\Intel\\iCLS Client\\;\nC:\\Program Files\\Intel\\iCLS Client\\;\n%SystemRoot%\\system32;\n%SystemRoot%;\n%SystemRoot%\\System32\\Wbem;\n%SYSTEMROOT%\\System32\\WindowsPowerShell\\v1.0\\;\nC:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;\nC:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;\nC:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;\nC:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;\nC:\\Program Files (x86)\\AMD\\ATI.ACE\\Core-Static;\nC:\\link;\nC:\\Program Files\\TortoiseGit\\bin;\nC:\\Ruby22-x64\\bin;\nC:\\Program Files\\Git\\cmd;\nC:\\Program Files (x86)\\MacType;\nC:\\Program Files\\Git\\usr\\bin;\n%NVM_HOME%;\n%NVM_SYMLINK%;\nC:\\Users\\Administrator\\AppData\\Roaming\\nvm",
+					"file": "/C/Users/Administrator/Desktop/env_back.txt",
+					"file_size": 770,
+					"file_write_time": 130815927143514389,
+					"settings":
+					{
+						"buffer_size": 791,
+						"line_ending": "Windows",
+						"name": "C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Ruby22-x64\\"
+					}
+				},
+				{
+					"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_base.scss",
+					"settings":
+					{
+						"buffer_size": 8189,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/MainView.js",
+					"settings":
+					{
+						"buffer_size": 3417,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "Packages/Python/Python.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 60.0,
+				"last_filter": "removepac",
+				"selected_items":
+				[
+					[
+						"removepac",
+						"Package Control: Remove Package"
+					],
+					[
+						"listpac",
+						"Package Control: List Packages"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"installpac",
+						"Package Control: Install Package"
+					],
+					[
+						"set bash",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"encodin",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"set css",
+						"Set Syntax: CSS"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"install pac",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"color",
+						"Color Picker"
+					],
+					[
+						"installpa",
+						"Package Control: Install Package"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"git pull",
+						"Git: Pull"
+					],
+					[
+						"gitpush",
+						"Git: Push Current Branch"
+					],
+					[
+						"term",
+						"Preferences: Terminal Key Bindings – User"
+					],
+					[
+						"ip",
+						"Package Control: Install Package"
+					],
+					[
+						"remopac",
+						"Package Control: Remove Package"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"rp",
+						"Preferences: Package Control Settings – Default"
+					],
+					[
+						"remova",
+						"Package Control: Remove Package"
+					],
+					[
+						"enablepac",
+						"Package Control: Enable Package"
+					],
+					[
+						"dis	",
+						"Package Control: Disable Package"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"disabl",
+						"Package Control: Disable Package"
+					],
+					[
+						"dp",
+						"Package Control: Disable Package"
+					],
+					[
+						"gitdiff",
+						"Git: Diff Current File"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"installpack",
+						"Package Control: Install Package"
+					],
+					[
+						"isntallpac",
+						"Package Control: Install Package"
+					],
+					[
+						"enablepa",
+						"Package Control: Enable Package"
+					],
+					[
+						"auto",
+						"Autoprefix CSS"
+					],
+					[
+						"set css3",
+						"Set Syntax: CSS3"
+					],
+					[
+						"removeac",
+						"Package Control: Remove Package"
+					],
+					[
+						"remoac",
+						"Package Control: Remove Package"
+					],
+					[
+						"set sass",
+						"Set Syntax: Sass"
+					],
+					[
+						"listpack",
+						"Package Control: List Packages"
+					],
+					[
+						"lispac",
+						"Package Control: List Packages"
+					],
+					[
+						"set json",
+						"Set Syntax: JSON"
+					],
+					[
+						"sass",
+						"SassBeautify: Convert from SCSS to current type"
+					],
+					[
+						"sb",
+						"SassBeautify"
+					],
+					[
+						"remove pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"shelle",
+						"Shell Exec: Open"
+					],
+					[
+						"shell",
+						"Shell Exec: Open"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"format",
+						"FormatLua: Format Lua code"
+					],
+					[
+						"fl",
+						"FormatLua: Format Lua code"
+					],
+					[
+						"lua",
+						"Set Syntax: Lua"
+					],
+					[
+						"set html",
+						"Set Syntax: HTML"
+					],
+					[
+						"gkr",
+						"Grunt: Kill Running Tasks"
+					],
+					[
+						"gruntkill",
+						"Grunt: Kill Running Tasks"
+					],
+					[
+						"grunt",
+						"Grunt"
+					],
+					[
+						"doc",
+						"DocBlockr: Reparse comment block"
+					],
+					[
+						"docbl",
+						"DocBlockr: Decorate line comment"
+					],
+					[
+						"set batch",
+						"Set Syntax: Batch File"
+					],
+					[
+						"set bas",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"set ba",
+						"Set Syntax: Batch File"
+					],
+					[
+						"rempve",
+						"Package Control: Remove Package"
+					],
+					[
+						"installc",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"set javasc",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"python",
+						"Set Syntax: Python"
+					],
+					[
+						"codeintel",
+						"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+					],
+					[
+						"lp",
+						"Package Control: List Packages"
+					],
+					[
+						"installp",
+						"Package Control: Install Package"
+					],
+					[
+						"set lua",
+						"Set Syntax: Lua"
+					],
+					[
+						"set scs3",
+						"Set Syntax: CSS3"
+					],
+					[
+						"Set css3",
+						"Set Syntax: CSS3"
+					]
+				],
+				"width": 514.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"timesteap",
+					"time()",
+					"Date",
+					"print",
+					"clear",
+					"clear()",
+					"cls",
+					"print(1)",
+					"print",
+					"ggg",
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/workspace/~temp/iscroll"
+			],
+			"file_history":
+			[
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.py",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/PS.ps1",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_mixins.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_vars.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_product.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/productList.html",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_header.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_base.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/main.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/.sass-cache/b90515f0229e2a9b4c180b20ceffe48665b7dcda/_product.scssc",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/product.scss",
+				"/D/workspace/~temp/backbone-page/css/main.scss",
+				"/D/workspace/~temp/backbone-page/index.html",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/css/_account.scss",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/css/_about.scss",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/css/_activity.scss",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/css/_base.scss",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/css/_contract.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_index.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_footer.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/index.html",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/index.html",
+				"/D/workspace/~temp/backbone-page/js/main.js",
+				"/D/workspace/~temp/backbone-page/css/_reset.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/BaseView.js",
+				"/D/workspace/~temp/backbone-page/css/main.css",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_reset.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/ProductListView.js",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/scripts/view/InvestSearchView.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_page.scss",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/scripts/app/appRouter.js",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/scripts/model/FilterModel.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/MainView.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/app/appRouter.js",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/scripts/view/InviteView.js",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/index.html",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/index.html",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/scripts/view/MainView.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/main.css.map",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/main.css",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/Gruntfile.js",
+				"/D/Game/dont_starve/mods/Fast moving/modmain.lua",
+				"/D/Game/dont_starve/mods/Fast moving/modinfo.lua",
+				"/D/Game/dont_starve/mods/Fast moving/Fast moving.xml",
+				"/D/Game/dont_starve/mods/Fast moving/preview.jpg",
+				"/D/Game/dont_starve/mods/Fast moving/Fast moving.tex",
+				"/C/Users/Administrator/Desktop/1.txt",
+				"/D/workspace/~temp/express/1.txt",
+				"/D/workspace/~temp/express/index.html",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/node_modules/grunt-jst/node_modules/esformatter/lib/hooks/VariableDeclaration.js",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/investItem.html",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/completedItem.html",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/main.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/node_modules/grunt-jst/node_modules/esformatter/node_modules/mout/object/mixIn.js",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/SideBarEnhancements/SideBarAPI.py",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/PyV8/win64-p3/PyV8.py",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/SideBarEnhancements/SideBarDefaultDisable.py",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/SideBarEnhancements/SideBar.py",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/SideBarEnhancements/Main.sublime-menu",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/SideBarEnhancements/Side Bar.sublime-menu",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/SideBarEnhancements/Commands.sublime-commands",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/SideBarEnhancements.sublime-package",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/PS.bat",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/package.json",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/Context.sublime-menu",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/.no-sublime-package",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Terminal (Windows).sublime-settings",
+				"/D/workspace/LLY.UI.Html.Lottery/development/scripts/view/MainView.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/setup.bat",
+				"/D/Installer/Adobe Create Suite 6 (2012)/{Adobe CS6 完全通用破解 (2012-05)}/{CS6 通用破解}/第2步，以管理员身份运行，以获得权限.bat",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/app/app.js",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/CSS Completions.sublime-package",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/.gitignore",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/scripts/view/ActivityView.js",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/scripts/view/AboutView.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/swipe.html",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/ToggleButton.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/utils/dialog.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/toggleButton.html",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/utils/swipe.js",
+				"/D/workspace/LLY.UI.Html.Lottery/development/scripts/app/configs.js",
+				"/D/workspace/LLY.UI.Html.Lottery/dist/index.html",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/app/configs.js",
+				"/C/Users/Administrator/Downloads/iconfont/ux_1436843339_6885488/iconfont.ttf",
+				"/D/workspace/LLY.UI.Html.Lottery/dist/scripts/main.js",
+				"/C/Users/Administrator/Desktop/out.txt",
+				"/C/Users/Administrator/AppData/Local/Google/Chrome/User Data/Default/Extensions/iaddkimmopgchbbnmfmdcophmlnghkim/2.5.42_0/css/1.css",
+				"/C/Users/Administrator/Desktop/git/bigpipe-example/Makefile",
+				"/C/Users/Administrator/Desktop/git/bigpipe-example/package.json",
+				"/D/workspace/LLY.UI.Html.Lottery/development/tpl/main.html",
+				"/D/迅雷下载/f6636cc01fcc311136680afd621da3e6/Don't Starve Together Beta/一键改名.bat",
+				"/C/Users/Administrator/Desktop/UX(1)/common/heartbeat.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/bower_components/fastclick/lib/fastclick.js",
+				"/D/workspace/MobileClick/index.html",
+				"/D/workspace/MobileClick/main.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/bower_components/fastclick/lib/fastclick.min.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_dialog.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/alert.html",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/css/_footer.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/utils/api.js",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/about.html",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/account.html",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/activity.html",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/alert.html",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/detail.html",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/css/_index.scss",
+				"/D/workspace/LLY.UI.Html.Lottery/development/tpl/histories.html",
+				"/D/workspace/LLY.UI.Html.Lottery/development/index.html",
+				"/D/workspace/LLY.UI.Html.Lottery/development/tpl/history.html",
+				"/D/workspace/LLY.UI.Html.Lottery/development/scripts/main.js",
+				"/D/workspace/LLY.UI.Html.Lottery/Gruntfile.js",
+				"/D/workspace/LLY.UI.Html.Lottery/development/scripts/model/InfosModel.js",
+				"/D/workspace/LLY.UI.Html.Lottery/development/scripts/utils/api.js",
+				"/C/Users/Administrator/Desktop/7_Response.txt",
+				"/C/Users/Administrator/Desktop/8_.txt",
+				"/D/workspace/LLY.UI.Html.Lottery/development/scripts/app/appRouter.js"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"",
+					"*.js",
+					"D:\\workspace\\LLY.UI.Html.EC-Hybrid\\development\\scripts,-require.js",
+					"D:\\workspace\\LLY.UI.Html.EC-Hybrid\\development\\scripts",
+					"*.scss",
+					"*.js",
+					"*.scss",
+					"*.html",
+					"",
+					"D:\\workspace\\LLY.UI.Html.EC-Hybrid\\development\\scripts",
+					"*.js",
+					"*.html,<open folders>",
+					"*.html",
+					"",
+					"<open folders>,*.js",
+					"<open folders>,*.lua",
+					"<open folders>,*.js",
+					"*.js",
+					"",
+					"*.css",
+					"",
+					"D:\\workspace\\LLY.UI.Html.Lottery",
+					"<open folders>",
+					"<open folders>,*.js",
+					"<open folders>,*.scss",
+					"<open folders>,*.js",
+					"<open folders>,*.html",
+					"*.html",
+					"*.js",
+					"*.scss",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					";",
+					";\\n",
+					";",
+					";\\s+",
+					"\\s+",
+					";",
+					"toggle",
+					"abs-p",
+					"bg-all",
+					"<i></i>",
+					"align-item",
+					"justify-con",
+					"just",
+					"f5f5f5",
+					"flex",
+					"gray",
+					"520",
+					": au",
+					":au",
+					":",
+					"bg-all",
+					"b-lian",
+					"index",
+					"\\\"",
+					"5s",
+					"1s",
+					"2s",
+					"b-home",
+					"b-back",
+					"background-size",
+					"size(",
+					"bg-all",
+					"china",
+					"ui-mobile-viewport-transitioning",
+					"footer ",
+					"footer",
+					"footer ",
+					"foot-inner",
+					"foot",
+					"footer",
+					"include bg",
+					"b-bac",
+					"include bg",
+					"background",
+					"text-align",
+					"center",
+					"\\sg6",
+					"g6",
+					"<div (class=\"line-item.+)>\\s+</div>",
+					"<div (class=\\\"line-item.+>)\\s+.+",
+					"<(div)\\sclass=\\\"line-item.+\\s+<\\/(div)>",
+					"div",
+					"g7",
+					"g5",
+					"content-warp",
+					"background",
+					"border",
+					"position",
+					"use_powershell",
+					"open.+run",
+					"exe",
+					"powershell",
+					"exe",
+					"power",
+					"TerminalSelector",
+					"PS.bat",
+					"run_terminal",
+					"OpenTerminalCommand",
+					"command",
+					"print",
+					"get_setting",
+					"机会",
+					"25s",
+					"ctrl+space",
+					"auto_complete",
+					"\\\"",
+					"background(",
+					"background",
+					"abs-pos",
+					"padding",
+					"relative",
+					"color(",
+					"color",
+					"line-height",
+					"size(",
+					"background(",
+					"border",
+					"content: \"\"",
+					"display",
+					"size",
+					"border-radius",
+					"$main_color",
+					"px",
+					"background-size",
+					"bg(",
+					"bg)",
+					"background-size",
+					"background",
+					"text-truncate",
+					"position",
+					"alert",
+					"div",
+					"ctrl+d",
+					"targetel",
+					"screenX",
+					"stop",
+					"targetElement",
+					"event.",
+					"touchstart",
+					"removeEventListener",
+					"event",
+					"$font_week_color",
+					"border-radius",
+					"center-bl",
+					"size",
+					"alert",
+					"dialog.alert",
+					"bg",
+					"bg_icons",
+					"btn",
+					"ui-page",
+					".ui-page header",
+					"life",
+					"swipe-points clearfix",
+					"swipe-wrap",
+					"bg_header.png",
+					"index_slider",
+					"\\s+console.+"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					";\\n",
+					";",
+					";\\n",
+					";",
+					"",
+					";\\n",
+					"",
+					"'",
+					"",
+					"<a href=\"javascript:void(0)\" $1></a>",
+					"<a $1></a>",
+					"<a$1",
+					"$1$2",
+					"a",
+					"g6",
+					"g7",
+					"'",
+					"",
+					"\n",
+					"\\/\\/$1",
+					"\"",
+					";\\n",
+					"",
+					"span:45,",
+					"span:45",
+					"span:\\s45",
+					"//$1",
+					"",
+					",\\n",
+					";",
+					";\\n"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\workspace\\LLY.UI.Html.EC-Hybrid"
+				},
+				{
+					"path": "D:\\workspace\\LLY.UI.Html.P2P-Hybrid"
+				},
+				{
+					"path": "D:\\workspace\\~temp\\backbone-page"
+				},
+				{
+					"path": "D:\\workspace\\~temp\\iscroll"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9051,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6995,
+										6995
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_thread_running": true,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2496.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/Administrator/Desktop/env_back.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 791,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										748,
+										722
+									]
+								],
+								"settings":
+								{
+									"auto_name": "C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Ruby22-x64\\",
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_thread_running": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_base.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8189,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6426,
+										6426
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_thread_running": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4652.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/MainView.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3417,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										983,
+										983
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_thread_running": true,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 36.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.CSS Extended Completions":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 353.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 108.0
+			},
+			"pinned_build_system": "Packages/YUI Compressor/YUI Compressor.sublime-build",
+			"position": "0,2,3,-32000,-32000,-1,-1,538,175,0,831",
+			"project": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"basescss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_base.scss"
+					],
+					[
+						"ecmainview",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\MainView.js"
+					],
+					[
+						"ectplindex",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\index.html"
+					],
+					[
+						"varscss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_vars.scss"
+					],
+					[
+						"mixinscss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_mixins.scss"
+					],
+					[
+						"headerscss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_header.scss"
+					],
+					[
+						"productscss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_product.scss"
+					],
+					[
+						"mixin",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_mixins.scss"
+					],
+					[
+						"echeaderscss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_header.scss"
+					],
+					[
+						"producth",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productList.html"
+					],
+					[
+						"header",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_header.scss"
+					],
+					[
+						"ecbasescss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_base.scss"
+					],
+					[
+						"_productscss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_product.scss"
+					],
+					[
+						"product",
+						"LLY.UI.Html.EC-Hybrid\\.sass-cache\\b90515f0229e2a9b4c180b20ceffe48665b7dcda\\_product.scssc"
+					],
+					[
+						"mainscss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\main.scss"
+					],
+					[
+						"producthtml",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productList.html"
+					],
+					[
+						"index.scss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_index.scss"
+					],
+					[
+						"ecindex.scss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_index.scss"
+					],
+					[
+						"footerscss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_footer.scss"
+					],
+					[
+						"index.css",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_index.scss"
+					],
+					[
+						"index.html",
+						"LLY.UI.Html.EC-Hybrid\\development\\index.html"
+					],
+					[
+						"tplindex.html",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\index.html"
+					],
+					[
+						"productlist",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productList.html"
+					],
+					[
+						"reset",
+						"backbone-page\\css\\_reset.scss"
+					],
+					[
+						"baseview",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\BaseView.js"
+					],
+					[
+						"mainjs",
+						"backbone-page\\js\\main.js"
+					],
+					[
+						"scss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_reset.scss"
+					],
+					[
+						"base.scss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_base.scss"
+					],
+					[
+						"ectplinedx.html",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\index.html"
+					],
+					[
+						"ecpagescss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_page.scss"
+					],
+					[
+						"pagescss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_page.scss"
+					],
+					[
+						"filtermodel",
+						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\model\\FilterModel.js"
+					],
+					[
+						"approutejs",
+						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\app\\appRouter.js"
+					],
+					[
+						"searchview",
+						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\view\\InvestSearchView.js"
+					],
+					[
+						"productview",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\ProductListView.js"
+					],
+					[
+						"productli",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productList.html"
+					],
+					[
+						"ecindexscss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_index.scss"
+					],
+					[
+						"ecindex.html",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\index.html"
+					],
+					[
+						"inveview",
+						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\view\\InviteView.js"
+					],
+					[
+						"approuter",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\app\\appRouter.js"
+					],
+					[
+						"ectplindexhtml",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\index.html"
+					],
+					[
+						"ecbasecss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_base.scss"
+					],
+					[
+						"mainviewjs",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\MainView.js"
+					],
+					[
+						"investsearchview",
+						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\view\\InvestSearchView.js"
+					],
+					[
+						"approute",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\app\\appRouter.js"
+					],
+					[
+						"mainview",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\MainView.js"
+					],
+					[
+						"p2papprou",
+						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\app\\appRouter.js"
+					],
+					[
+						"p2ptplindex",
+						"LLY.UI.Html.P2P-Hybrid\\development\\tpl\\index.html"
+					],
+					[
+						"p2pmainview",
+						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\view\\MainView.js"
+					],
+					[
+						"var",
+						"node_modules\\grunt-jst\\node_modules\\esformatter\\lib\\hooks\\VariableDeclaration.js"
+					],
+					[
+						"main",
+						"development\\scripts\\main.js"
+					],
+					[
+						"minxin",
+						"node_modules\\grunt-jst\\node_modules\\esformatter\\node_modules\\mout\\object\\mixIn.js"
+					],
+					[
+						"tplhtml",
+						"development\\tpl\\index.html"
+					],
+					[
+						"setup",
+						"setup.bat"
+					],
+					[
+						"basecss",
+						"development\\css\\_base.scss"
+					],
+					[
+						"gruntfile",
+						"Gruntfile.js"
+					],
+					[
+						"main.js",
+						"development\\scripts\\main.js"
+					],
+					[
+						"indexhtml",
+						"development\\tpl\\index.html"
+					],
+					[
+						"foot",
+						"development\\css\\_footer.scss"
+					],
+					[
+						"lotteryconfigjs",
+						"LLY.UI.Html.Lottery\\development\\scripts\\app\\configs.js"
+					],
+					[
+						"config",
+						"LLY.UI.Html.Lottery\\development\\scripts\\app\\configs.js"
+					],
+					[
+						"fastclick",
+						"bower_components\\fastclick\\lib\\fastclick.js"
+					],
+					[
+						"varjs",
+						"node_modules\\grunt-jst\\node_modules\\esformatter\\lib\\hooks\\VariableDeclaration.js"
+					],
+					[
+						"maincss",
+						"development\\css\\main.css"
+					],
+					[
+						"varsc",
+						"development\\css\\_vars.scss"
+					],
+					[
+						"dialogjs",
+						"development\\scripts\\utils\\dialog.js"
+					],
+					[
+						"dialog",
+						"development\\scripts\\utils\\dialog.js"
+					],
+					[
+						"dialogscss",
+						"development\\css\\_dialog.scss"
+					],
+					[
+						"footscss",
+						"LLY.UI.Html.P2P-Hybrid\\development\\css\\_footer.scss"
+					],
+					[
+						"index",
+						"LLY.UI.Html.EC-Hybrid\\development\\index.html"
+					],
+					[
+						".scss",
+						"development\\css\\_base.scss"
+					],
+					[
+						"mixinc",
+						"development\\css\\_mixins.scss"
+					],
+					[
+						"swipe",
+						"development\\scripts\\utils\\swipe.js"
+					],
+					[
+						"_index.scss",
+						"LLY.UI.Html.P2P-Hybrid\\development\\css\\_index.scss"
+					],
+					[
+						"p2p_index.scss",
+						"LLY.UI.Html.P2P-Hybrid\\development\\css\\_index.scss"
+					],
+					[
+						"ecindex.htl",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\index.html"
+					],
+					[
+						"gruntfilejs",
+						"Gruntfile.js"
+					],
+					[
+						"apijs",
+						"development\\scripts\\utils\\api.js"
+					],
+					[
+						"infom",
+						"development\\scripts\\model\\InfosModel.js"
+					],
+					[
+						"configs",
+						"development\\scripts\\app\\configs.js"
+					],
+					[
+						"api.js",
+						"development\\scripts\\utils\\api.js"
+					],
+					[
+						"histo",
+						"development\\tpl\\histories.html"
+					],
+					[
+						"mainhtml",
+						"development\\tpl\\main.html"
+					],
+					[
+						"configjs",
+						"development\\scripts\\app\\configs.js"
+					],
+					[
+						"lotteryindex.html",
+						"LLY.UI.Html.Lottery\\development\\index.html"
+					],
+					[
+						"lotterymainviewjs",
+						"LLY.UI.Html.Lottery\\development\\scripts\\view\\MainView.js"
+					],
+					[
+						"lotterymainjs",
+						"LLY.UI.Html.Lottery\\development\\scripts\\main.js"
+					],
+					[
+						"index.htm",
+						"LLY.UI.Html.Lottery\\dist\\index.html"
+					],
+					[
+						"lotteryapi.js",
+						"LLY.UI.Html.Lottery\\development\\scripts\\utils\\api.js"
+					],
+					[
+						"lotteryapijs",
+						"LLY.UI.Html.Lottery\\node_modules\\grunt-zip\\node_modules\\jszip\\documentation\\api_jszip.md"
+					],
+					[
+						"historieshtml",
+						"LLY.UI.Html.Lottery\\development\\tpl\\histories.html"
+					],
+					[
+						"lotteryindex",
+						"LLY.UI.Html.Lottery\\development\\index.html"
+					],
+					[
+						"ecmainviewjs",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\MainView.js"
+					],
+					[
+						"ecswipejs",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\utils\\swipe.js"
+					],
+					[
+						"swipejs",
+						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\utils\\swipe.js"
+					],
+					[
+						"p2pdialogscss",
+						"LLY.UI.Html.P2P-Hybrid\\development\\css\\_dialog.scss"
+					],
+					[
+						"ecdialog.scss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_dialog.scss"
+					],
+					[
+						"p2pdialogjs",
+						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\utils\\dialog.js"
+					],
+					[
+						"swipehtml",
+						"LLY.UI.Html.P2P-Hybrid\\development\\tpl\\swipe.html"
+					],
+					[
+						"ecdialogjs",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\utils\\dialog.js"
+					],
+					[
+						"ecindexhtml",
+						"LLY.UI.Html.EC-Hybrid\\development\\index.html"
+					],
+					[
+						"p2pmainjs",
+						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\main.js"
+					],
+					[
+						"ecmainjs",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\main.js"
+					],
+					[
+						"_basescss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_base.scss"
+					],
+					[
+						"ecgruntfile",
+						"LLY.UI.Html.EC-Hybrid\\Gruntfile.js"
+					],
+					[
+						"tplindex",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\index.html"
+					],
+					[
+						"tpl/index",
+						"LLY.UI.Html.P2P-Hybrid\\development\\tpl\\index.html"
+					],
+					[
+						"invview",
+						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\view\\InviteView.js"
+					],
+					[
+						"invehtml",
+						"LLY.UI.Html.P2P-Hybrid\\development\\tpl\\investConfirm.html"
+					],
+					[
+						"inve",
+						"LLY.UI.Html.P2P-Hybrid\\development\\tpl\\investItem.html"
+					],
+					[
+						"templatejs",
+						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\view\\templates.js"
+					],
+					[
+						"jst",
+						"LLY.UI.Html.EC-Hybrid\\node_modules\\grunt-jst\\tasks\\jst.js"
+					],
+					[
+						"mainmodel",
+						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\model\\MainModel.js"
+					],
+					[
+						"stu",
+						"backbone-architecture\\scripts\\model\\Student.js"
+					],
+					[
+						"basemodel",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\model\\BaseModel.js"
+					],
+					[
+						"viewjs",
+						"backbone-architecture\\scripts\\view\\View.js"
+					],
+					[
+						"routerjs",
+						"backbone-architecture\\scripts\\router.js"
+					],
+					[
+						"backbonejs",
+						"backbone-architecture\\lib\\backbone\\backbone.js"
+					],
+					[
+						"backbone",
+						"backbone-architecture\\lib\\backbone\\backbone.js"
+					],
+					[
+						"requirejs",
+						"backbone-architecture\\lib\\requirejs\\require.js"
+					],
+					[
+						"gitig",
+						".gitignore"
+					],
+					[
+						"gruntfil",
+						"Gruntfile.js"
+					],
+					[
+						"gruntf",
+						"Gruntfile.js"
+					],
+					[
+						"base",
+						"development\\scripts\\view\\BaseView.js"
+					],
+					[
+						"appjs",
+						"development\\scripts\\app\\app.js"
+					],
+					[
+						"bower",
+						".bowerrc"
+					],
+					[
+						"git",
+						".gitignore"
+					],
+					[
+						"package",
+						"package.json"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 266.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 4,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

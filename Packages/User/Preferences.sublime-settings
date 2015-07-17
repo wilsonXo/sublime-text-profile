@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"font_face": "ubuntu mono",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"jQuery Snippets pack",
+		"Vintage"
+	],
+	"show_encoding": true,
+	"soda_classic_tabs": true,
+	"theme": "Soda Dark.sublime-theme"
+}
