@@ -1,8 +1,9 @@
 {
 	"folder_history":
 	[
-		"/D/workspace/~temp/backbone-page",
 		"/D/workspace/LLY.UI.Html.P2P-Hybrid",
+		"/D/workspace/~temp/iscroll",
+		"/D/workspace/~temp/backbone-page",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/SideBarEnhancements",
 		"/D/workspace/LLY.UI.Html.EC-Hybrid",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal",
@@ -1427,6 +1428,14 @@
 				"selected_items":
 				[
 					[
+						"Product",
+						"ProductCategoryFilterView"
+					],
+					[
+						"pr",
+						"pos:r	position:relative"
+					],
+					[
 						"trans",
 						"translateX"
 					],
@@ -1543,21 +1552,10 @@
 			"buffers":
 			[
 				{
-					"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/productList.html",
+					"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/productBrand.html",
 					"settings":
 					{
-						"buffer_size": 757,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"contents": "@charset \"UTF-8\";\n\n@import \"vars\";\n@import \"mixins\";\n\n.filter-warp {\n    height: 50px;\n    background: red<p></p>;\n}",
-					"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/product.scss",
-					"file_size": 117,
-					"file_write_time": 130815124994035720,
-					"settings":
-					{
-						"buffer_size": 116,
+						"buffer_size": 1367,
 						"line_ending": "Windows"
 					}
 				}
@@ -1585,21 +1583,41 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 135.0,
-				"last_filter": "listpac",
+				"height": 110.0,
+				"last_filter": "disable",
 				"selected_items":
 				[
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
 					[
 						"listpac",
 						"Package Control: List Packages"
 					],
 					[
-						"disa",
-						"Package Control: Disable Package"
+						"enablepac",
+						"Package Control: Enable Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
 					],
 					[
 						"installpac",
 						"Package Control: Install Package"
+					],
+					[
+						"removepac",
+						"Package Control: Remove Package"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
 					],
 					[
 						"set bash",
@@ -1614,16 +1632,8 @@
 						"Set Syntax: CSS"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"install pac",
 						"Package Control: Install Package"
-					],
-					[
-						"removepac",
-						"Package Control: Remove Package"
 					],
 					[
 						"remo",
@@ -1678,15 +1688,7 @@
 						"Package Control: Remove Package"
 					],
 					[
-						"enablepac",
-						"Package Control: Enable Package"
-					],
-					[
 						"dis	",
-						"Package Control: Disable Package"
-					],
-					[
-						"disable",
 						"Package Control: Disable Package"
 					],
 					[
@@ -1907,41 +1909,71 @@
 			[
 				"/D/workspace/LLY.UI.Html.EC-Hybrid",
 				"/D/workspace/LLY.UI.Html.EC-Hybrid/development",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css",
-				"/D/workspace/LLY.UI.Html.P2P-Hybrid",
-				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development",
-				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/css"
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts"
 			],
 			"file_history":
 			[
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/productBrand.html",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/ProductCategoryView.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/productFilter.html",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_base.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/productCategoryFilter.html",
+				"/C/Users/Administrator/Desktop/git/contactSearch/app/view/ResultsTab.js",
+				"/C/Users/Administrator/Desktop/git/contactSearch/app/view/DetailTab.js",
+				"/C/Users/Administrator/Desktop/git/contactSearch/app/view/MainPanel.js",
+				"/C/Users/Administrator/Desktop/git/contactSearch/app/view/Viewport.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_filter.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/.sass-cache/b90515f0229e2a9b4c180b20ceffe48665b7dcda/_filter.scssc",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/app/appRouter.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/ProductCategoryFilterView.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/productList.html",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_product.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/ProductFilterView.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/ProductListView.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/main.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/BaseView.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_vars.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/index.html",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/.gitignore",
+				"/C/Users/Administrator/Desktop/env_back.txt",
+				"/C/Users/Administrator/Desktop/1.txt",
+				"/C/Users/Administrator/Desktop/test.js",
+				"/C/Users/Administrator/Downloads/filetypesman-x64/readme.txt",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/DEVELOPMENT.md",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/README.md",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/package.json",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/Gruntfile.js",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/LiveReload.sublime-package",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+				"/C/ProgramData/Microsoft/Windows/Start Menu/Programs/Brackets.lnk",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/D/Program Files/cmder/vendor/msysgit/share/vim/vimrc",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/MainView.js",
+				"/C/Users/Administrator/Desktop/git/sublime_profile/.git/config",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.py",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/PS.ps1",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_mixins.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_header.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/.sass-cache/b90515f0229e2a9b4c180b20ceffe48665b7dcda/_product.scssc",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/product.scss",
+				"/D/workspace/~temp/backbone-page/css/main.scss",
+				"/D/workspace/~temp/backbone-page/index.html",
 				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/css/_account.scss",
 				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/css/_about.scss",
 				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/css/_activity.scss",
 				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/css/_base.scss",
 				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/css/_contract.scss",
 				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_index.scss",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_mixins.scss",
 				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_footer.scss",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_header.scss",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_base.scss",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/index.html",
 				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/index.html",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/productList.html",
-				"/D/workspace/~temp/backbone-page/index.html",
 				"/D/workspace/~temp/backbone-page/js/main.js",
-				"/D/workspace/~temp/backbone-page/css/main.scss",
 				"/D/workspace/~temp/backbone-page/css/_reset.scss",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/BaseView.js",
 				"/D/workspace/~temp/backbone-page/css/main.css",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/main.scss",
 				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_reset.scss",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/ProductListView.js",
 				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/scripts/view/InvestSearchView.js",
 				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_page.scss",
 				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/scripts/app/appRouter.js",
 				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/scripts/model/FilterModel.js",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/MainView.js",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/app/appRouter.js",
 				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/scripts/view/InviteView.js",
 				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/index.html",
 				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/index.html",
@@ -1950,16 +1982,13 @@
 				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/main.css",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/Gruntfile.js",
 				"/D/Game/dont_starve/mods/Fast moving/modmain.lua",
 				"/D/Game/dont_starve/mods/Fast moving/modinfo.lua",
 				"/D/Game/dont_starve/mods/Fast moving/Fast moving.xml",
 				"/D/Game/dont_starve/mods/Fast moving/preview.jpg",
 				"/D/Game/dont_starve/mods/Fast moving/Fast moving.tex",
-				"/C/Users/Administrator/Desktop/1.txt",
 				"/D/workspace/~temp/express/1.txt",
 				"/D/workspace/~temp/express/index.html",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_vars.scss",
 				"/D/workspace/LLY.UI.Html.EC-Hybrid/node_modules/grunt-jst/node_modules/esformatter/lib/hooks/VariableDeclaration.js",
 				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/investItem.html",
 				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/completedItem.html",
@@ -1980,12 +2009,9 @@
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/PS.bat",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/package.json",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/Context.sublime-menu",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.py",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/.no-sublime-package",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Terminal (Windows).sublime-settings",
 				"/D/workspace/LLY.UI.Html.Lottery/development/scripts/view/MainView.js",
 				"/D/workspace/LLY.UI.Html.EC-Hybrid/setup.bat",
@@ -1994,7 +2020,6 @@
 				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/app/app.js",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/CSS Completions.sublime-package",
-				"/D/workspace/LLY.UI.Html.P2P-Hybrid/.gitignore",
 				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/scripts/view/ActivityView.js",
 				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/scripts/view/AboutView.js",
 				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/swipe.html",
@@ -2015,33 +2040,7 @@
 				"/D/迅雷下载/f6636cc01fcc311136680afd621da3e6/Don't Starve Together Beta/一键改名.bat",
 				"/C/Users/Administrator/Desktop/UX(1)/common/heartbeat.js",
 				"/D/workspace/LLY.UI.Html.EC-Hybrid/bower_components/fastclick/lib/fastclick.js",
-				"/D/workspace/MobileClick/index.html",
-				"/D/workspace/MobileClick/main.js",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/bower_components/fastclick/lib/fastclick.min.js",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_dialog.scss",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/alert.html",
-				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/css/_footer.scss",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/utils/api.js",
-				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/about.html",
-				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/account.html",
-				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/activity.html",
-				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/alert.html",
-				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/detail.html",
-				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/css/_index.scss",
-				"/D/workspace/LLY.UI.Html.Lottery/development/tpl/histories.html",
-				"/D/workspace/LLY.UI.Html.Lottery/development/index.html",
-				"/D/workspace/LLY.UI.Html.Lottery/development/tpl/history.html",
-				"/D/workspace/LLY.UI.Html.Lottery/development/scripts/main.js",
-				"/D/workspace/LLY.UI.Html.Lottery/Gruntfile.js",
-				"/D/workspace/LLY.UI.Html.Lottery/development/scripts/model/InfosModel.js",
-				"/D/workspace/LLY.UI.Html.Lottery/development/scripts/utils/api.js",
-				"/C/Users/Administrator/Desktop/7_Response.txt",
-				"/C/Users/Administrator/Desktop/8_.txt",
-				"/D/workspace/LLY.UI.Html.Lottery/development/scripts/app/appRouter.js",
-				"/C/Users/Administrator/Desktop/8_Request.txt",
-				"/C/Users/Administrator/Desktop/response.json",
-				"/C/Users/Administrator/Desktop/268_Response.txt",
-				"/D/workspace/LLY.UI.Html.Lottery/development/scripts/model/BaseModel.js"
+				"/D/workspace/MobileClick/index.html"
 			],
 			"find":
 			{
@@ -2090,6 +2089,25 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"\\\"",
+					";\\n",
+					";",
+					"denyCurrentBranch ",
+					";",
+					";\\n",
+					";",
+					";\\s+",
+					"\\s+",
+					";",
+					"toggle",
+					"abs-p",
+					"bg-all",
+					"<i></i>",
+					"align-item",
+					"justify-con",
+					"just",
+					"f5f5f5",
+					"flex",
 					"gray",
 					"520",
 					": au",
@@ -2198,26 +2216,7 @@
 					"ui-page",
 					".ui-page header",
 					"life",
-					"swipe-points clearfix",
-					"swipe-wrap",
-					"bg_header.png",
-					"index_slider",
-					"\\s+console.+",
-					"load(",
-					"line",
-					"网络错误",
-					"\\/\\/.+",
-					"alert",
-					"configs",
-					"this.model.lo",
-					"load",
-					"infosmodel",
-					"triggerloaded",
-					"doget",
-					"members",
-					"111",
-					"console.log",
-					"111"
+					"swipe-points clearfix"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2225,6 +2224,15 @@
 				"regex": true,
 				"replace_history":
 				[
+					"'",
+					";",
+					";\\n",
+					";",
+					";\\n",
+					";",
+					"",
+					";\\n",
+					"",
 					"'",
 					"",
 					"<a href=\"javascript:void(0)\" $1></a>",
@@ -2268,24 +2276,24 @@
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/productList.html",
+							"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/productBrand.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 757,
+								"buffer_size": 1367,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										392,
-										392
+										1002,
+										997
 									]
 								],
 								"settings":
@@ -2299,37 +2307,7 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/product.scss",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 116,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										116,
-										116
-									]
-								],
-								"settings":
-								{
-									"encoding_helper_encoding": "UTF-8",
-									"encoding_thread_running": true,
-									"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 236.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -2386,7 +2364,7 @@
 				"height": 108.0
 			},
 			"pinned_build_system": "Packages/YUI Compressor/YUI Compressor.sublime-build",
-			"position": "0,2,3,-32000,-32000,-1,-1,538,175,0,831",
+			"position": "0,2,3,-1,-1,-1,-1,538,175,0,831",
 			"project": "",
 			"replace":
 			{
@@ -2400,12 +2378,148 @@
 				"selected_items":
 				[
 					[
+						"productbrand",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productBrand.html"
+					],
+					[
+						"prouctbrand",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productBrand.html"
+					],
+					[
+						"productcatejs",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\ProductCategoryView.js"
+					],
+					[
+						"profilterhtml",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productFilter.html"
+					],
+					[
+						"basescss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_base.scss"
+					],
+					[
+						"filterscss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_filter.scss"
+					],
+					[
+						"filtercscs",
+						"LLY.UI.Html.EC-Hybrid\\.sass-cache\\b90515f0229e2a9b4c180b20ceffe48665b7dcda\\_filter.scssc"
+					],
+					[
+						"productcategoryhtml",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productCategoryFilter.html"
+					],
+					[
+						"productcateview",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\ProductCategoryView.js"
+					],
+					[
+						"productfilterhtml",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productFilter.html"
+					],
+					[
+						"ecapproute",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\app\\appRouter.js"
+					],
+					[
+						"approute",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\app\\appRouter.js"
+					],
+					[
 						"producthtml",
 						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productList.html"
 					],
 					[
+						"productlist",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productList.html"
+					],
+					[
+						"productview",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\ProductCategoryFilterView.js"
+					],
+					[
+						"productscss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_product.scss"
+					],
+					[
+						"productfilterview",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\ProductFilterView.js"
+					],
+					[
+						"productviewjs",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\ProductListView.js"
+					],
+					[
+						"ecbasescss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_base.scss"
+					],
+					[
+						"var",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_vars.scss"
+					],
+					[
+						"ectplindex",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\index.html"
+					],
+					[
+						"mainscss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\main.scss"
+					],
+					[
+						"productlisthtml",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productList.html"
+					],
+					[
+						"ecproductview",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\ProductListView.js"
+					],
+					[
+						"produclthtml",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productList.html"
+					],
+					[
+						"baseview",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\BaseView.js"
+					],
+					[
+						"ecmainview",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\MainView.js"
+					],
+					[
+						"varscss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_vars.scss"
+					],
+					[
+						"mixinscss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_mixins.scss"
+					],
+					[
 						"headerscss",
 						"LLY.UI.Html.EC-Hybrid\\development\\css\\_header.scss"
+					],
+					[
+						"mixin",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_mixins.scss"
+					],
+					[
+						"echeaderscss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_header.scss"
+					],
+					[
+						"producth",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productList.html"
+					],
+					[
+						"header",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_header.scss"
+					],
+					[
+						"_productscss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_product.scss"
+					],
+					[
+						"product",
+						"LLY.UI.Html.EC-Hybrid\\.sass-cache\\b90515f0229e2a9b4c180b20ceffe48665b7dcda\\_product.scssc"
 					],
 					[
 						"index.scss",
@@ -2416,24 +2530,8 @@
 						"LLY.UI.Html.EC-Hybrid\\development\\css\\_index.scss"
 					],
 					[
-						"ectplindex",
-						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\index.html"
-					],
-					[
 						"footerscss",
 						"LLY.UI.Html.EC-Hybrid\\development\\css\\_footer.scss"
-					],
-					[
-						"mixin",
-						"LLY.UI.Html.EC-Hybrid\\development\\css\\_mixins.scss"
-					],
-					[
-						"mixinscss",
-						"LLY.UI.Html.EC-Hybrid\\development\\css\\_mixins.scss"
-					],
-					[
-						"echeaderscss",
-						"LLY.UI.Html.EC-Hybrid\\development\\css\\_header.scss"
 					],
 					[
 						"index.css",
@@ -2448,24 +2546,12 @@
 						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\index.html"
 					],
 					[
-						"productlist",
-						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productList.html"
-					],
-					[
 						"reset",
 						"backbone-page\\css\\_reset.scss"
 					],
 					[
-						"baseview",
-						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\BaseView.js"
-					],
-					[
 						"mainjs",
 						"backbone-page\\js\\main.js"
-					],
-					[
-						"mainscss",
-						"LLY.UI.Html.EC-Hybrid\\development\\css\\main.scss"
 					],
 					[
 						"scss",
@@ -2476,16 +2562,8 @@
 						"LLY.UI.Html.EC-Hybrid\\development\\css\\_base.scss"
 					],
 					[
-						"basescss",
-						"LLY.UI.Html.EC-Hybrid\\development\\css\\_base.scss"
-					],
-					[
 						"ectplinedx.html",
 						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\index.html"
-					],
-					[
-						"ecbasescss",
-						"LLY.UI.Html.EC-Hybrid\\development\\css\\_base.scss"
 					],
 					[
 						"ecpagescss",
@@ -2508,10 +2586,6 @@
 						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\view\\InvestSearchView.js"
 					],
 					[
-						"productview",
-						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\ProductListView.js"
-					],
-					[
 						"productli",
 						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productList.html"
 					],
@@ -2532,10 +2606,6 @@
 						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\app\\appRouter.js"
 					],
 					[
-						"ecmainview",
-						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\MainView.js"
-					],
-					[
 						"ectplindexhtml",
 						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\index.html"
 					],
@@ -2552,10 +2622,6 @@
 						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\view\\InvestSearchView.js"
 					],
 					[
-						"approute",
-						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\app\\appRouter.js"
-					],
-					[
 						"mainview",
 						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\MainView.js"
 					],
@@ -2570,14 +2636,6 @@
 					[
 						"p2pmainview",
 						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\view\\MainView.js"
-					],
-					[
-						"varscss",
-						"development\\css\\_vars.scss"
-					],
-					[
-						"var",
-						"node_modules\\grunt-jst\\node_modules\\esformatter\\lib\\hooks\\VariableDeclaration.js"
 					],
 					[
 						"main",
@@ -2626,10 +2684,6 @@
 					[
 						"fastclick",
 						"bower_components\\fastclick\\lib\\fastclick.js"
-					],
-					[
-						"header",
-						"development\\css\\_header.scss"
 					],
 					[
 						"varjs",
@@ -2834,82 +2888,6 @@
 					[
 						"mainmodel",
 						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\model\\MainModel.js"
-					],
-					[
-						"stu",
-						"backbone-architecture\\scripts\\model\\Student.js"
-					],
-					[
-						"basemodel",
-						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\model\\BaseModel.js"
-					],
-					[
-						"viewjs",
-						"backbone-architecture\\scripts\\view\\View.js"
-					],
-					[
-						"routerjs",
-						"backbone-architecture\\scripts\\router.js"
-					],
-					[
-						"backbonejs",
-						"backbone-architecture\\lib\\backbone\\backbone.js"
-					],
-					[
-						"backbone",
-						"backbone-architecture\\lib\\backbone\\backbone.js"
-					],
-					[
-						"requirejs",
-						"backbone-architecture\\lib\\requirejs\\require.js"
-					],
-					[
-						"gitig",
-						".gitignore"
-					],
-					[
-						"gruntfil",
-						"Gruntfile.js"
-					],
-					[
-						"gruntf",
-						"Gruntfile.js"
-					],
-					[
-						"base",
-						"development\\scripts\\view\\BaseView.js"
-					],
-					[
-						"appjs",
-						"development\\scripts\\app\\app.js"
-					],
-					[
-						"bower",
-						".bowerrc"
-					],
-					[
-						"git",
-						".gitignore"
-					],
-					[
-						"package",
-						"package.json"
-					],
-					[
-						"grunfi",
-						"Gruntfile.js"
-					],
-					[
-						"grunt",
-						"Gruntfile.js"
-					],
-					[
-						"html",
-						"node_modules\\live-server\\node_modules\\watchr\\node_modules\\bal-util\\out\\lib\\html.js"
-					],
-					[
-						"giti",
-						".gitignore"
 					]
 				],
 				"width": 0.0

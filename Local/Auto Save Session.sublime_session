@@ -1,9 +1,9 @@
 {
 	"folder_history":
 	[
+		"/D/workspace/LLY.UI.Html.P2P-Hybrid",
 		"/D/workspace/~temp/iscroll",
 		"/D/workspace/~temp/backbone-page",
-		"/D/workspace/LLY.UI.Html.P2P-Hybrid",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/SideBarEnhancements",
 		"/D/workspace/LLY.UI.Html.EC-Hybrid",
 		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal",
@@ -1428,6 +1428,14 @@
 				"selected_items":
 				[
 					[
+						"li",
+						"li	Tag"
+					],
+					[
+						"Product",
+						"ProductCategoryFilterView"
+					],
+					[
 						"pr",
 						"pos:r	position:relative"
 					],
@@ -1524,10 +1532,6 @@
 						"animation-duration"
 					],
 					[
-						"li",
-						"link	Tag"
-					],
-					[
 						"scro",
 						"scrollTop"
 					],
@@ -1548,30 +1552,44 @@
 			"buffers":
 			[
 				{
-					"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/index.html",
+					"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/app/appRouter.js",
 					"settings":
 					{
-						"buffer_size": 9051,
+						"buffer_size": 5865,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"contents": "C:\\ProgramData\\Oracle\\Java\\javapath;\nC:\\Ruby22-x64\\bin;\nC:\\Program Files (x86)\\Intel\\iCLS Client\\;\nC:\\Program Files\\Intel\\iCLS Client\\;\n%SystemRoot%\\system32;\n%SystemRoot%;\n%SystemRoot%\\System32\\Wbem;\n%SYSTEMROOT%\\System32\\WindowsPowerShell\\v1.0\\;\nC:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;\nC:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;\nC:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;\nC:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;\nC:\\Program Files (x86)\\AMD\\ATI.ACE\\Core-Static;\nC:\\link;\nC:\\Program Files\\TortoiseGit\\bin;\nC:\\Ruby22-x64\\bin;\nC:\\Program Files\\Git\\cmd;\nC:\\Program Files (x86)\\MacType;\nC:\\Program Files\\Git\\usr\\bin;\n%NVM_HOME%;\n%NVM_SYMLINK%;\nC:\\Users\\Administrator\\AppData\\Roaming\\nvm",
-					"file": "/C/Users/Administrator/Desktop/env_back.txt",
-					"file_size": 770,
-					"file_write_time": 130815927143514389,
+					"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/ProductIntroView.js",
 					"settings":
 					{
-						"buffer_size": 791,
-						"line_ending": "Windows",
-						"name": "C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Ruby22-x64\\"
+						"buffer_size": 2470,
+						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_base.scss",
+					"contents": "Searching 3016 files for \"testSearch\" (regex)\n\nD:\\workspace\\LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\ProductBrandView.js:\n   20              events: {\n   21                  'click .b-back': 'goBack',\n   22:                 'click .search-bar': 'testSearch'\n   23              },\n   24  \n   ..\n   40                  return this.show();\n   41              },\n   42:             testSearch: function() {\n   43                  alert(1);\n   44              }\n\n2 matches in 1 file\n",
 					"settings":
 					{
-						"buffer_size": 8189,
+						"buffer_size": 484,
+						"line_ending": "Windows",
+						"name": "Find Results",
+						"scratch": true
+					}
+				},
+				{
+					"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/ProductBrandView.js",
+					"settings":
+					{
+						"buffer_size": 1102,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/productList.html",
+					"settings":
+					{
+						"buffer_size": 7541,
 						"line_ending": "Windows"
 					}
 				},
@@ -1579,7 +1597,23 @@
 					"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/MainView.js",
 					"settings":
 					{
-						"buffer_size": 3417,
+						"buffer_size": 3430,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/productIntro.html",
+					"settings":
+					{
+						"buffer_size": 676,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_product.scss",
+					"settings":
+					{
+						"buffer_size": 2462,
 						"line_ending": "Windows"
 					}
 				}
@@ -1607,25 +1641,49 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 60.0,
-				"last_filter": "removepac",
+				"height": 375.0,
+				"last_filter": "ip",
 				"selected_items":
 				[
 					[
-						"removepac",
-						"Package Control: Remove Package"
+						"ip",
+						"Package Control: Install Package"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
 					],
 					[
 						"listpac",
 						"Package Control: List Packages"
 					],
 					[
-						"disa",
-						"Package Control: Disable Package"
+						"enablepac",
+						"Package Control: Enable Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
 					],
 					[
 						"installpac",
 						"Package Control: Install Package"
+					],
+					[
+						"removepac",
+						"Package Control: Remove Package"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
 					],
 					[
 						"set bash",
@@ -1638,10 +1696,6 @@
 					[
 						"set css",
 						"Set Syntax: CSS"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					],
 					[
 						"install pac",
@@ -1676,16 +1730,8 @@
 						"Preferences: Terminal Key Bindings – User"
 					],
 					[
-						"ip",
-						"Package Control: Install Package"
-					],
-					[
 						"remopac",
 						"Package Control: Remove Package"
-					],
-					[
-						"enable",
-						"Package Control: Enable Package"
 					],
 					[
 						"remove",
@@ -1700,15 +1746,7 @@
 						"Package Control: Remove Package"
 					],
 					[
-						"enablepac",
-						"Package Control: Enable Package"
-					],
-					[
 						"dis	",
-						"Package Control: Disable Package"
-					],
-					[
-						"disable",
 						"Package Control: Disable Package"
 					],
 					[
@@ -1927,19 +1965,63 @@
 			},
 			"expanded_folders":
 			[
-				"/D/workspace/~temp/iscroll"
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl"
 			],
 			"file_history":
 			[
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/ProductBranView.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/index.html",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_index.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/main.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/MainView.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/productList.html",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/productBrand.html",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/investConfirm.html",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/ProductBrandView.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/productIntro.html",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_base.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_filter.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/productFilter.html",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/app/appRouter.js",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/scripts/app/appRouter.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/ProductListView.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_mixins.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/ProductCategoryView.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/productCategoryFilter.html",
+				"/C/Users/Administrator/Desktop/git/contactSearch/app/view/ResultsTab.js",
+				"/C/Users/Administrator/Desktop/git/contactSearch/app/view/DetailTab.js",
+				"/C/Users/Administrator/Desktop/git/contactSearch/app/view/MainPanel.js",
+				"/C/Users/Administrator/Desktop/git/contactSearch/app/view/Viewport.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/.sass-cache/b90515f0229e2a9b4c180b20ceffe48665b7dcda/_filter.scssc",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/ProductCategoryFilterView.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_product.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/ProductFilterView.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/main.scss",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/BaseView.js",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_vars.scss",
+				"/D/workspace/LLY.UI.Html.P2P-Hybrid/.gitignore",
+				"/C/Users/Administrator/Desktop/env_back.txt",
+				"/C/Users/Administrator/Desktop/1.txt",
+				"/C/Users/Administrator/Desktop/test.js",
+				"/C/Users/Administrator/Downloads/filetypesman-x64/readme.txt",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/DEVELOPMENT.md",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/README.md",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/package.json",
+				"/D/workspace/LLY.UI.Html.EC-Hybrid/Gruntfile.js",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/LiveReload.sublime-package",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+				"/C/ProgramData/Microsoft/Windows/Start Menu/Programs/Brackets.lnk",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/D/Program Files/cmder/vendor/msysgit/share/vim/vimrc",
+				"/C/Users/Administrator/Desktop/git/sublime_profile/.git/config",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.py",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/PS.ps1",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_mixins.scss",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_vars.scss",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_product.scss",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/productList.html",
 				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_header.scss",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_base.scss",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/main.scss",
 				"/D/workspace/LLY.UI.Html.EC-Hybrid/.sass-cache/b90515f0229e2a9b4c180b20ceffe48665b7dcda/_product.scssc",
 				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/product.scss",
 				"/D/workspace/~temp/backbone-page/css/main.scss",
@@ -1949,22 +2031,15 @@
 				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/css/_activity.scss",
 				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/css/_base.scss",
 				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/css/_contract.scss",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_index.scss",
 				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_footer.scss",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/index.html",
 				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/index.html",
 				"/D/workspace/~temp/backbone-page/js/main.js",
 				"/D/workspace/~temp/backbone-page/css/_reset.scss",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/BaseView.js",
 				"/D/workspace/~temp/backbone-page/css/main.css",
 				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_reset.scss",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/ProductListView.js",
 				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/scripts/view/InvestSearchView.js",
 				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_page.scss",
-				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/scripts/app/appRouter.js",
 				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/scripts/model/FilterModel.js",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/MainView.js",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/app/appRouter.js",
 				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/scripts/view/InviteView.js",
 				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/index.html",
 				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/index.html",
@@ -1973,19 +2048,16 @@
 				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/main.css",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/Gruntfile.js",
 				"/D/Game/dont_starve/mods/Fast moving/modmain.lua",
 				"/D/Game/dont_starve/mods/Fast moving/modinfo.lua",
 				"/D/Game/dont_starve/mods/Fast moving/Fast moving.xml",
 				"/D/Game/dont_starve/mods/Fast moving/preview.jpg",
 				"/D/Game/dont_starve/mods/Fast moving/Fast moving.tex",
-				"/C/Users/Administrator/Desktop/1.txt",
 				"/D/workspace/~temp/express/1.txt",
 				"/D/workspace/~temp/express/index.html",
 				"/D/workspace/LLY.UI.Html.EC-Hybrid/node_modules/grunt-jst/node_modules/esformatter/lib/hooks/VariableDeclaration.js",
 				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/investItem.html",
 				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/completedItem.html",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/main.js",
 				"/D/workspace/LLY.UI.Html.EC-Hybrid/node_modules/grunt-jst/node_modules/esformatter/node_modules/mout/object/mixIn.js",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/SideBarEnhancements/SideBarAPI.py",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/PyV8/win64-p3/PyV8.py",
@@ -2002,11 +2074,9 @@
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/PS.bat",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/package.json",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/Context.sublime-menu",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/.no-sublime-package",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Terminal (Windows).sublime-settings",
 				"/D/workspace/LLY.UI.Html.Lottery/development/scripts/view/MainView.js",
 				"/D/workspace/LLY.UI.Html.EC-Hybrid/setup.bat",
@@ -2015,7 +2085,6 @@
 				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/app/app.js",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/CSS Completions.sublime-package",
-				"/D/workspace/LLY.UI.Html.P2P-Hybrid/.gitignore",
 				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/scripts/view/ActivityView.js",
 				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/scripts/view/AboutView.js",
 				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/swipe.html",
@@ -2032,33 +2101,7 @@
 				"/C/Users/Administrator/AppData/Local/Google/Chrome/User Data/Default/Extensions/iaddkimmopgchbbnmfmdcophmlnghkim/2.5.42_0/css/1.css",
 				"/C/Users/Administrator/Desktop/git/bigpipe-example/Makefile",
 				"/C/Users/Administrator/Desktop/git/bigpipe-example/package.json",
-				"/D/workspace/LLY.UI.Html.Lottery/development/tpl/main.html",
-				"/D/迅雷下载/f6636cc01fcc311136680afd621da3e6/Don't Starve Together Beta/一键改名.bat",
-				"/C/Users/Administrator/Desktop/UX(1)/common/heartbeat.js",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/bower_components/fastclick/lib/fastclick.js",
-				"/D/workspace/MobileClick/index.html",
-				"/D/workspace/MobileClick/main.js",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/bower_components/fastclick/lib/fastclick.min.js",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_dialog.scss",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/alert.html",
-				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/css/_footer.scss",
-				"/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/utils/api.js",
-				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/about.html",
-				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/account.html",
-				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/activity.html",
-				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/alert.html",
-				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/tpl/detail.html",
-				"/D/workspace/LLY.UI.Html.P2P-Hybrid/development/css/_index.scss",
-				"/D/workspace/LLY.UI.Html.Lottery/development/tpl/histories.html",
-				"/D/workspace/LLY.UI.Html.Lottery/development/index.html",
-				"/D/workspace/LLY.UI.Html.Lottery/development/tpl/history.html",
-				"/D/workspace/LLY.UI.Html.Lottery/development/scripts/main.js",
-				"/D/workspace/LLY.UI.Html.Lottery/Gruntfile.js",
-				"/D/workspace/LLY.UI.Html.Lottery/development/scripts/model/InfosModel.js",
-				"/D/workspace/LLY.UI.Html.Lottery/development/scripts/utils/api.js",
-				"/C/Users/Administrator/Desktop/7_Response.txt",
-				"/C/Users/Administrator/Desktop/8_.txt",
-				"/D/workspace/LLY.UI.Html.Lottery/development/scripts/app/appRouter.js"
+				"/D/workspace/LLY.UI.Html.Lottery/development/tpl/main.html"
 			],
 			"find":
 			{
@@ -2069,6 +2112,8 @@
 				"height": 90.0,
 				"where_history":
 				[
+					"*.js",
+					"*.scss",
 					"",
 					"*.js",
 					"D:\\workspace\\LLY.UI.Html.EC-Hybrid\\development\\scripts,-require.js",
@@ -2107,6 +2152,19 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"testSearch",
+					"index_",
+					"index_slider",
+					"item",
+					"href",
+					"<a\\shref.+\\s+<a",
+					"rgba",
+					"ProductBranView",
+					"fixed",
+					"\\\"",
+					";\\n",
+					";",
+					"denyCurrentBranch ",
 					";",
 					";\\n",
 					";",
@@ -2221,20 +2279,7 @@
 					"$font_week_color",
 					"border-radius",
 					"center-bl",
-					"size",
-					"alert",
-					"dialog.alert",
-					"bg",
-					"bg_icons",
-					"btn",
-					"ui-page",
-					".ui-page header",
-					"life",
-					"swipe-points clearfix",
-					"swipe-wrap",
-					"bg_header.png",
-					"index_slider",
-					"\\s+console.+"
+					"size"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2242,6 +2287,8 @@
 				"regex": true,
 				"replace_history":
 				[
+					"'",
+					";",
 					";\\n",
 					";",
 					";\\n",
@@ -2287,133 +2334,29 @@
 				},
 				{
 					"path": "D:\\workspace\\LLY.UI.Html.P2P-Hybrid"
-				},
-				{
-					"path": "D:\\workspace\\~temp\\backbone-page"
-				},
-				{
-					"path": "D:\\workspace\\~temp\\iscroll"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 4,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/index.html",
+							"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/app/appRouter.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 9051,
+								"buffer_size": 5865,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										6995,
-										6995
-									]
-								],
-								"settings":
-								{
-									"auto_complete": false,
-									"encoding_helper_encoding": "UTF-8",
-									"encoding_thread_running": true,
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 2496.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/C/Users/Administrator/Desktop/env_back.txt",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 791,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										748,
-										722
-									]
-								],
-								"settings":
-								{
-									"auto_name": "C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Ruby22-x64\\",
-									"encoding_helper_encoding": "UTF-8",
-									"encoding_thread_running": true,
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_base.scss",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 8189,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										6426,
-										6426
-									]
-								],
-								"settings":
-								{
-									"encoding_helper_encoding": "UTF-8",
-									"encoding_thread_running": true,
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 4652.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/MainView.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3417,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										983,
-										983
+										4930,
+										4930
 									]
 								],
 								"settings":
@@ -2427,10 +2370,263 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 2064.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/ProductIntroView.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2470,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2470,
+										2470
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_thread_running": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 172.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 484,
+								"regions":
+								{
+									"match":
+									{
+										"flags": 112,
+										"regions":
+										[
+											[
+												252,
+												262
+											],
+											[
+												384,
+												394
+											]
+										],
+										"scope": ""
+									}
+								},
+								"selection":
+								[
+									[
+										391,
+										391
+									]
+								],
+								"settings":
+								{
+									"default_dir": "D:\\workspace\\LLY.UI.Html.EC-Hybrid",
+									"detect_indentation": false,
+									"encoding_helper_encoding": "",
+									"line_numbers": false,
+									"output_tag": 1,
+									"result_base_dir": "",
+									"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+									"result_line_regex": "^ +([0-9]+):",
+									"scroll_past_end": true,
+									"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/ProductBrandView.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1102,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										839,
+										839
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_thread_running": true,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 286.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/productList.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7541,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7158,
+										7158
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_thread_running": true,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1820.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/scripts/view/MainView.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3430,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										828,
+										828
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_thread_running": true,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": -0.0,
+								"translation.y": 336.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/tpl/productIntro.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 676,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										325,
+										325
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_thread_running": true,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/D/workspace/LLY.UI.Html.EC-Hybrid/development/css/_product.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2462,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										718,
+										718
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_thread_running": true,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 192.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
 							"type": "text"
 						}
 					]
@@ -2484,7 +2680,7 @@
 				"height": 108.0
 			},
 			"pinned_build_system": "Packages/YUI Compressor/YUI Compressor.sublime-build",
-			"position": "0,2,3,-32000,-32000,-1,-1,538,175,0,831",
+			"position": "0,2,3,-1,-1,-1,-1,538,175,0,831",
 			"project": "",
 			"replace":
 			{
@@ -2498,16 +2694,192 @@
 				"selected_items":
 				[
 					[
-						"basescss",
-						"LLY.UI.Html.EC-Hybrid\\development\\css\\_base.scss"
+						"productlisthtml",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productList.html"
+					],
+					[
+						"productbranjs",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\ProductBranView.js"
+					],
+					[
+						"ectplindexhtml",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\index.html"
+					],
+					[
+						"index.scss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_index.scss"
+					],
+					[
+						"mainviewjs",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\MainView.js"
+					],
+					[
+						"mainjs",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\main.js"
 					],
 					[
 						"ecmainview",
 						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\MainView.js"
 					],
 					[
+						"productbran",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productBrand.html"
+					],
+					[
+						"productintroview",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\ProductIntroView.js"
+					],
+					[
+						"productintro",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productIntro.html"
+					],
+					[
+						"approuter",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\app\\appRouter.js"
+					],
+					[
+						"productscss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_product.scss"
+					],
+					[
+						"ecapproute",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\app\\appRouter.js"
+					],
+					[
+						"productintrohtml",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productIntro.html"
+					],
+					[
+						"productbrand.js",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\ProductBrandView.js"
+					],
+					[
 						"ectplindex",
 						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\index.html"
+					],
+					[
+						"filterscss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_filter.scss"
+					],
+					[
+						"basescss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_base.scss"
+					],
+					[
+						"approute",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\app\\appRouter.js"
+					],
+					[
+						"productbrandjs",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\ProductBrandView.js"
+					],
+					[
+						"ecindex.scss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_index.scss"
+					],
+					[
+						"ecfilterscss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_filter.scss"
+					],
+					[
+						"ecapproutejs",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\app\\appRouter.js"
+					],
+					[
+						"approutejs",
+						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\app\\appRouter.js"
+					],
+					[
+						"productfilterhtml",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productFilter.html"
+					],
+					[
+						"productlist",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productList.html"
+					],
+					[
+						"productbrandhtml",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productBrand.html"
+					],
+					[
+						"productlistview",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\ProductListView.js"
+					],
+					[
+						"mixin",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_mixins.scss"
+					],
+					[
+						"filter",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_filter.scss"
+					],
+					[
+						"producthtml",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productBrand.html"
+					],
+					[
+						"productbrand",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productBrand.html"
+					],
+					[
+						"prouctbrand",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productBrand.html"
+					],
+					[
+						"productcatejs",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\ProductCategoryView.js"
+					],
+					[
+						"profilterhtml",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productFilter.html"
+					],
+					[
+						"filtercscs",
+						"LLY.UI.Html.EC-Hybrid\\.sass-cache\\b90515f0229e2a9b4c180b20ceffe48665b7dcda\\_filter.scssc"
+					],
+					[
+						"productcategoryhtml",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productCategoryFilter.html"
+					],
+					[
+						"productcateview",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\ProductCategoryView.js"
+					],
+					[
+						"productview",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\ProductCategoryFilterView.js"
+					],
+					[
+						"productfilterview",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\ProductFilterView.js"
+					],
+					[
+						"productviewjs",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\ProductListView.js"
+					],
+					[
+						"ecbasescss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_base.scss"
+					],
+					[
+						"var",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\_vars.scss"
+					],
+					[
+						"mainscss",
+						"LLY.UI.Html.EC-Hybrid\\development\\css\\main.scss"
+					],
+					[
+						"ecproductview",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\ProductListView.js"
+					],
+					[
+						"produclthtml",
+						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productList.html"
+					],
+					[
+						"baseview",
+						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\BaseView.js"
 					],
 					[
 						"varscss",
@@ -2522,14 +2894,6 @@
 						"LLY.UI.Html.EC-Hybrid\\development\\css\\_header.scss"
 					],
 					[
-						"productscss",
-						"LLY.UI.Html.EC-Hybrid\\development\\css\\_product.scss"
-					],
-					[
-						"mixin",
-						"LLY.UI.Html.EC-Hybrid\\development\\css\\_mixins.scss"
-					],
-					[
 						"echeaderscss",
 						"LLY.UI.Html.EC-Hybrid\\development\\css\\_header.scss"
 					],
@@ -2542,32 +2906,12 @@
 						"LLY.UI.Html.EC-Hybrid\\development\\css\\_header.scss"
 					],
 					[
-						"ecbasescss",
-						"LLY.UI.Html.EC-Hybrid\\development\\css\\_base.scss"
-					],
-					[
 						"_productscss",
 						"LLY.UI.Html.EC-Hybrid\\development\\css\\_product.scss"
 					],
 					[
 						"product",
 						"LLY.UI.Html.EC-Hybrid\\.sass-cache\\b90515f0229e2a9b4c180b20ceffe48665b7dcda\\_product.scssc"
-					],
-					[
-						"mainscss",
-						"LLY.UI.Html.EC-Hybrid\\development\\css\\main.scss"
-					],
-					[
-						"producthtml",
-						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productList.html"
-					],
-					[
-						"index.scss",
-						"LLY.UI.Html.EC-Hybrid\\development\\css\\_index.scss"
-					],
-					[
-						"ecindex.scss",
-						"LLY.UI.Html.EC-Hybrid\\development\\css\\_index.scss"
 					],
 					[
 						"footerscss",
@@ -2586,20 +2930,8 @@
 						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\index.html"
 					],
 					[
-						"productlist",
-						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\productList.html"
-					],
-					[
 						"reset",
 						"backbone-page\\css\\_reset.scss"
-					],
-					[
-						"baseview",
-						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\BaseView.js"
-					],
-					[
-						"mainjs",
-						"backbone-page\\js\\main.js"
 					],
 					[
 						"scss",
@@ -2626,16 +2958,8 @@
 						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\model\\FilterModel.js"
 					],
 					[
-						"approutejs",
-						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\app\\appRouter.js"
-					],
-					[
 						"searchview",
 						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\view\\InvestSearchView.js"
-					],
-					[
-						"productview",
-						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\ProductListView.js"
 					],
 					[
 						"productli",
@@ -2654,28 +2978,12 @@
 						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\view\\InviteView.js"
 					],
 					[
-						"approuter",
-						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\app\\appRouter.js"
-					],
-					[
-						"ectplindexhtml",
-						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\index.html"
-					],
-					[
 						"ecbasecss",
 						"LLY.UI.Html.EC-Hybrid\\development\\css\\_base.scss"
 					],
 					[
-						"mainviewjs",
-						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\view\\MainView.js"
-					],
-					[
 						"investsearchview",
 						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\view\\InvestSearchView.js"
-					],
-					[
-						"approute",
-						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\app\\appRouter.js"
 					],
 					[
 						"mainview",
@@ -2692,10 +3000,6 @@
 					[
 						"p2pmainview",
 						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\view\\MainView.js"
-					],
-					[
-						"var",
-						"node_modules\\grunt-jst\\node_modules\\esformatter\\lib\\hooks\\VariableDeclaration.js"
 					],
 					[
 						"main",
@@ -2900,114 +3204,6 @@
 					[
 						"ecindexhtml",
 						"LLY.UI.Html.EC-Hybrid\\development\\index.html"
-					],
-					[
-						"p2pmainjs",
-						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\main.js"
-					],
-					[
-						"ecmainjs",
-						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\main.js"
-					],
-					[
-						"_basescss",
-						"LLY.UI.Html.EC-Hybrid\\development\\css\\_base.scss"
-					],
-					[
-						"ecgruntfile",
-						"LLY.UI.Html.EC-Hybrid\\Gruntfile.js"
-					],
-					[
-						"tplindex",
-						"LLY.UI.Html.EC-Hybrid\\development\\tpl\\index.html"
-					],
-					[
-						"tpl/index",
-						"LLY.UI.Html.P2P-Hybrid\\development\\tpl\\index.html"
-					],
-					[
-						"invview",
-						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\view\\InviteView.js"
-					],
-					[
-						"invehtml",
-						"LLY.UI.Html.P2P-Hybrid\\development\\tpl\\investConfirm.html"
-					],
-					[
-						"inve",
-						"LLY.UI.Html.P2P-Hybrid\\development\\tpl\\investItem.html"
-					],
-					[
-						"templatejs",
-						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\view\\templates.js"
-					],
-					[
-						"jst",
-						"LLY.UI.Html.EC-Hybrid\\node_modules\\grunt-jst\\tasks\\jst.js"
-					],
-					[
-						"mainmodel",
-						"LLY.UI.Html.P2P-Hybrid\\development\\scripts\\model\\MainModel.js"
-					],
-					[
-						"stu",
-						"backbone-architecture\\scripts\\model\\Student.js"
-					],
-					[
-						"basemodel",
-						"LLY.UI.Html.EC-Hybrid\\development\\scripts\\model\\BaseModel.js"
-					],
-					[
-						"viewjs",
-						"backbone-architecture\\scripts\\view\\View.js"
-					],
-					[
-						"routerjs",
-						"backbone-architecture\\scripts\\router.js"
-					],
-					[
-						"backbonejs",
-						"backbone-architecture\\lib\\backbone\\backbone.js"
-					],
-					[
-						"backbone",
-						"backbone-architecture\\lib\\backbone\\backbone.js"
-					],
-					[
-						"requirejs",
-						"backbone-architecture\\lib\\requirejs\\require.js"
-					],
-					[
-						"gitig",
-						".gitignore"
-					],
-					[
-						"gruntfil",
-						"Gruntfile.js"
-					],
-					[
-						"gruntf",
-						"Gruntfile.js"
-					],
-					[
-						"base",
-						"development\\scripts\\view\\BaseView.js"
-					],
-					[
-						"appjs",
-						"development\\scripts\\app\\app.js"
-					],
-					[
-						"bower",
-						".bowerrc"
-					],
-					[
-						"git",
-						".gitignore"
-					],
-					[
-						"package",
-						"package.json"
 					]
 				],
 				"width": 0.0

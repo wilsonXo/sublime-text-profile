@@ -4,8 +4,10 @@
 	"font_size": 10,
 	"ignored_packages":
 	[
-		"jQuery Snippets pack",
-		"Vintage"
+		"Vintage",
+		"CSS Completions",
+		"CSS Snippets",
+		"jQuery Snippets pack"
 	],
 	"show_encoding": true,
 	"soda_classic_tabs": true,
